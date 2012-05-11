@@ -1,0 +1,75 @@
+<!--
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <RelativeLayout android:id="@+id/header_speaker"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="@dimen/body_padding_large"
+        android:paddingRight="@dimen/body_padding_large"
+        android:paddingTop="@dimen/body_padding_medium"
+        android:paddingBottom="@dimen/body_padding_medium">
+
+        <ImageView android:id="@+id/image_speaker"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_marginTop="@dimen/star_button_padding"
+            android:layout_marginLeft="@dimen/star_button_padding" />
+
+        <TextView android:id="@+id/speaker_title"
+            android:layout_toLeftOf="@id/image_speaker"
+            android:layout_alignParentLeft="true"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            style="@style/TextHeader" />
+
+        <TextView android:id="@+id/speaker_subtitle" 
+            android:layout_below="@id/speaker_title"
+            android:layout_toLeftOf="@id/image_speaker"
+            android:layout_alignParentLeft="true"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            style="@style/TextHeaderSub" />
+    </RelativeLayout>
+
+    <TabHost android:id="@android:id/tabhost"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+            <TabWidget android:id="@android:id/tabs"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/tab_off_background" />
+            <FrameLayout android:id="@android:id/tabcontent"
+                android:layout_width="fill_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1">
+                <include android:id="@+id/tab_speaker_bio" layout="@layout/tab_speaker_bio" />
+                <ListView  xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:id="@+id/tab_speaker_sessions"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"  />
+            </FrameLayout>
+        </LinearLayout>
+    </TabHost>
+
+</LinearLayout>

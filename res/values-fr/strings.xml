@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Devoxx France</string>
+
+    <string name="description_logo">Devoxx France 2012</string>
+    <string name="description_home">Accueil</string>
+    <string name="description_search">Rechercher</string>
+    <string name="description_map">Carte</string>
+    <string name="description_refresh">Rafraichir</string>
+    <string name="description_share">Partager</string>
+    <string name="description_export">Exporter</string>
+    <string name="description_star">Star</string>
+    <string name="description_now">Aller à l\'heure actuelle</string>
+    <string name="description_info">A propos</string>
+
+    <string name="title_now_playing">En cours</string>
+    <string name="title_schedule">Agenda</string>
+    <string name="title_sessions">Sessions</string>
+    <string name="title_session_detail">Détails de la session</string>
+    <string name="title_starred">Favoris</string>
+    <string name="title_tracks">Tracks</string>
+    <string name="title_vendors">Speakers</string>
+    <string name="title_vendor_detail">Détails de l\'entreprise</string>
+    <string name="title_map">Plan</string>
+    <string name="title_tagstream">Realtime stream</string>
+    <string name="title_twitter">Tag #DevoxxFr</string>
+    <string name="title_site_conference">Devoxx France 2012</string>
+    <string name="title_speakers">Speakers</string>
+    <string name="title_speaker_detail">Détails du speaker</string>
+
+    <string name="title_session_tracks">Catégorie des sessions</string>
+    <string name="title_vendor_tracks">Speakers présents</string>
+
+    <string name="title_share">Partager avec</string>
+
+    <string name="title_search">Recherche</string>
+    <string name="title_search_query">Recherche de  \"<xliff:g id="query">%1$s</xliff:g>\"</string>
+
+    <string name="btn_schedule">Agenda</string>
+    <string name="btn_map">Plan</string>
+    <string name="btn_sessions">Sessions</string>
+    <string name="btn_starred">Favoris</string>
+    <string name="btn_twitter">Twitter</string>
+    <string name="btn_vendors">Speakers</string>
+    <string name="btn_announcements">Twitter</string>
+
+    <string name="toast_sync_error">Erreur de synchro : <xliff:g id="error">%1$s</xliff:g></string>
+
+    <string name="session_moderator_status"><xliff:g id="questions">%1$s</xliff:g> questions submitted and <xliff:g id="votes">%2$s</xliff:g> votes cast.</string>
+
+    <string name="all_sandbox_title">Toutes les entreprises</string>
+    <string name="all_sandbox_subtitle">Touch to filter by sandbox companies by pod.</string>
+
+    <string name="all_sessions_title">Toutes les sessions</string>
+    <string name="all_sessions_subtitle">Touch to filter sessions by track.</string>
+
+    <string name="empty_tweets">Aucun tweets pour le moment.</string>
+    <string name="empty_sessions">Aucune session trouvée.</string>
+    <string name="empty_session_detail">Détais de la session non trouvés.</string>
+    <string name="empty_vendors">No sandbox results found.</string>
+    <string name="empty_search">Aucun résultat.</string>
+    <string name="empty_links">No links available.</string>
+    <string name="empty_speakers">Aucun speaker trouvé.</string>
+    <string name="empty_speaker_detail">Détails du speaker non trouvés.</string>
+
+    <string name="session_summary">Résumé</string>
+    <string name="session_notes">Notes</string>
+    <string name="session_links">Links</string>
+    <string name="session_requirements">Requirements</string>
+    <string name="session_speakers">Speakers</string>
+    <string name="session_sponsored">Sponsorisée</string>
+    
+    <string name="tab_speaker_bio">Biographie</string>
+    <string name="tab_speaker_session">Sessions</string>
+    
+    <string name="tab_map_0">Niveau RDC</string>
+    <string name="tab_map_1">Niveau -1</string>
+
+    <string name="tag_stream">Flux en temps réel pour </string>
+    
+    <string name="session_link_main">Web link</string>
+    <string name="session_link_moderator">Ask questions</string>
+    <string name="session_link_youtube">YouTube video</string>
+    <string name="session_link_pdf">Slides (PDF)</string>
+    <string name="session_link_feedback">Feedback on this session</string>
+    <string name="session_link_notes">Official notes</string>
+
+    <string name="search_sessions">Sessions</string>
+    <string name="search_vendors">Bac à sable</string>
+
+    <string name="starred_sessions">Sessions</string>
+    <string name="starred_speakers">Speakers</string>
+
+    <string name="search_label">Devoxx France</string>
+    <string name="search_hint">Sessions ou speakers</string>
+    <string name="search_voice_hint">Recherche de sessions ou de speakers</string>
+
+    <string name="share_template">Checking out \'<xliff:g id="title">%1$s</xliff:g>\' at <xliff:g id="hashtags">%2$s</xliff:g> <xliff:g id="url">%3$s</xliff:g></string>
+
+    <string name="moderator_header">Moderator</string>
+
+    <string name="dialog_moderator_title">Google Moderator</string>
+    <string name="dialog_moderator_message">The official Google Moderator app is available in Market. Do you want to install it or continue using a normal browser?</string>
+
+    <string name="dialog_moderator_web">Use browser</string>
+    <string name="dialog_moderator_market">Visit Market</string>
+
+    <plurals name="whats_on_countdown_title">
+        <item quantity="zero"><xliff:g id="remaining_time">%2$s</xliff:g>\navant Devoxx France 2012</item>
+        <item quantity="one"><xliff:g id="number_of_days">%1$s</xliff:g> jour, <xliff:g id="remaining_time">%2$s</xliff:g>\navant Devoxx France 2012</item>
+        <item quantity="other"><xliff:g id="number_of_days">%1$s</xliff:g> jours, <xliff:g id="remaining_time">%2$s</xliff:g>\navant Devoxx France 2012</item>
+    </plurals>
+
+    <string name="whats_on_stream_title">Devoxx\nFrance\n2012</string>
+    <string name="whats_on_now_playing_title">En cours </string>
+    <string name="whats_on_thank_you_title">A l\'année prochaine !</string>
+
+    <string name="permission_write">Modify Google I/O schedule data</string>
+
+    <string name="toast_now_not_visible">Cliquer sur ce bouton pendant Devoxx pour aller à l\'heure courante.</string>
+
+    <!-- Notes integration -->
+    <string name="notes_catch_powered_by">Notes are powered by <a href="http://www.catch.com/">Catch.com</a>.</string>
+    <string name="notes_catch_market_title">Install Catch Notes</string>
+    <string name="notes_catch_market_subtitle">You can take notes for Google I/O sessions using the latest version of Catch Notes, available from Android Market.</string>
+    <string name="notes_catch_new_title">Create a new note</string>
+    <string name="notes_catch_view_title">View track notes</string>
+    <string name="toast_notes_error_invoking">Couldn\'t start Catch Notes.</string>
+
+    <string name="note_template">Session: <xliff:g id="title">%1$s</xliff:g>\n\n\n\n__________\nTags: <xliff:g id="hashtags">%2$s</xliff:g></string>
+
+	<string name="twitter_image_alt">Image de l\'utilisateur</string>
+
+    <!-- EULA -->
+    <string name="eula_title">Conditions d\'utilisations</string>
+    <string name="eula_text">Cette application est réservée à un usage personnel. Elle vous est gratuitement offerte sans pub par In Fine Consulting :-)</string>
+    <string name="accept">J\'aime In Fine !</string>
+    <string name="decline">Non, Merci.</string>
+    
+    <string name="dialog_about">Cette application est développée par :\n- Florian Boulay\n- Christian Nguyen Van Than\n\nNous travaillons chez In Fine Consulting, partenaire de Devoxx France 2012. Venez nous voir !</string>
+
+</resources>

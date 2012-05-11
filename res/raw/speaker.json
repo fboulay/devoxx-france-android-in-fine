@@ -1,0 +1,4190 @@
+{
+   "speakers":[
+      {
+         "speakerId":1428,
+         "name":"Guillaume LOURS",
+         "bio":"Guillaume LOURS, Coach Agile et Expert Java EE, est le co-fondateur du Normandy Agile User Group et un des organisateurs de l\u0027AgileTour à Rouen. Il participe activement à la communauté Agile Française et un membre permanent du NormandyJUG",
+         "company":"AgileIT",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1428/thumbnail.gif",
+         "sessionIds":[
+            1347,
+            1347,
+            1347
+         ],
+         "sessions":[
+            {
+               "sessionId":1347,
+               "scheduleId":0,
+               "title":"Kanban pour les nuls !",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1347,
+               "scheduleId":0,
+               "title":"Kanban pour les nuls !",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1347,
+               "scheduleId":0,
+               "title":"Kanban pour les nuls !",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1569,
+         "name":"Mathias Seguy",
+         "bio":"Mathias est fondateur de la société Android2EE dont l’objectif est la Formation, l’Expertise et le Consulting Android.  Il est auteur de plusieurs ouvrages sur le sujet (disponibles sur Android2ee.com) et d’articles sur Developpez.com. Diplômé d’un Doctorat de Mathématiques Fondamentales et d’un diplôme d\u0027ingénieur de l\u0027ENSEEIHT, il a travaillé pendant une dizaine d’années sur des projets J2EE critiques. Il a été expert technique, manager, chef de projet pour finir directeur technique de sa précédente entreprise. Aujourd’hui, il enchaine cours, conférences et missions d’expertise associés au développement Android.",
+         "company":"Android2EE",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1569/thumbnail.gif",
+         "sessionIds":[
+            1145
+         ],
+         "sessions":[
+            {
+               "sessionId":1145,
+               "scheduleId":0,
+               "title":"Android, A Quick Course",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1571,
+         "name":"Jeff Maury",
+         "bio":"Responsable de l\u0027offre Java chez l\u0027éditeur Syspertec\r\nCo-fondateur de la société SCORT, éditeur spécialisé dans l\u0027intégration des grands systèmes et des systèmes ouverts (Java/.Net)",
+         "company":"Syspertec",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1571/thumbnail.gif",
+         "sessionIds":[
+            1415,
+            1415,
+            1415,
+            1415
+         ],
+         "sessions":[
+            {
+               "sessionId":1415,
+               "scheduleId":0,
+               "title":"Dessine moi un language: à la découverte de Xtext",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1415,
+               "scheduleId":0,
+               "title":"Dessine moi un language: à la découverte de Xtext",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1415,
+               "scheduleId":0,
+               "title":"Dessine moi un language: à la découverte de Xtext",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1415,
+               "scheduleId":0,
+               "title":"Dessine moi un language: à la découverte de Xtext",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1578,
+         "name":"Florent Ramière",
+         "bio":"Florent Ramière a plus de quinze années d\u0027expérience dans le développement logiciel et la conduite de projets informatiques. Il a passé plusieurs années aux Etats-Unis chez un éditeur de logiciel. A son retour en France après un détour chez Capgemini, il a fondé avec Nicolas Romanetti la société Jaxio.\r\nDepuis 2005 Jaxio met à la disposition de ses clients son savoir-faire et les meilleures pratiques via leur produit de génération de code Celerio. En 2009 ils ont lancé www.SpringFuse.com, une version en ligne de Celerio.\r\nVous pouvez retrouver Florent et Nicolas aux soirées Java sur Paris (ParisJug, Coding-Dojo, JavaCamp, …)",
+         "company":"Jaxio",
+         "imageUri":"http://cfp2.devoxx.com/img/thumbnail.gif",
+         "sessionIds":[
+            1406,
+            1406
+         ],
+         "sessions":[
+            {
+               "sessionId":1406,
+               "scheduleId":0,
+               "title":"Dépoussiérez votre code java avec Lombok !",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1406,
+               "scheduleId":0,
+               "title":"Dépoussiérez votre code java avec Lombok !",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1629,
+         "name":"Olivier Philippot",
+         "bio":"Ingénieur en électronique et informatique depuis 10 ans, Olivier Philippot a travaillé dans des laboratoires R\u0026D et dans des grands groupes sur la conception de systèmes de gestion de l\u0027énergie et sur la problématique de l\u0027impact environnemental des technologies.\r\nIl est un membre actif de la communauté Green IT française et participe à des groupes de travail nationaux comme l\u0027AFNOR. Il est contributeur du blog de référence GreenIT.fr où il rédige régulièrement des articles sur les bonnes pratiques et sur l\u0027actualité internationale Green IT. Il anime des formations et accompagne les sociétés autour de l\u0027informatique et des technologies durables. Il est l’auteur du livre « Green IT : gérez la consommation d’énergie de votre système informatique » aux éditions ENI. Il est co-fondateur du Green Code Lab, un groupe d’utilisateur travaillant autour de l’éco-conception logicielle.",
+         "company":"Green Code Lab",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1629/thumbnail.gif",
+         "sessionIds":[
+            1244
+         ],
+         "sessions":[
+            {
+               "sessionId":1244,
+               "scheduleId":0,
+               "title":"Obésiciel et impact environnemental : Green Patterns appliqués à Java",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1644,
+         "name":"Stephane Godbillon",
+         "bio":"Stephane Godbillon est architecte logiciel chez Zenexity depuis 2008. Il a contribué à Play 1.x (modules, core) et à Play 2.0. Il travaille également sur le plugin MongoDB de Play 2.0.",
+         "company":"Zenexity",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1644/thumbnail.gif",
+         "sessionIds":[
+            1472
+         ],
+         "sessions":[
+            {
+               "sessionId":1472,
+               "scheduleId":0,
+               "title":"BOF MongoDB user group",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1660,
+         "name":"Nicolas Lorain",
+         "bio":"Nicolas Lorain est un professionnel accompli dans la gestion de logiciels et de plate-formes de dévelopement. Il a tenu des postes de chef de produit pour differentes technologies Java pendant plus de 10 ans, y compris Java ME, Java SE, et JavaFX. Lorain est en charge de la lagame de produits JavaFX. Il a également lancé avec\r\nsuccès un programme de partenaires pour JavaFX. Avant de joindre Oracle, Lorain a occupé des postes de gestion de produits chez Sun Microsystems en Californie, Eicon Technology au Canada, et Borland en France. Il est diplômé de l\u0027EMLYON Business School (France).",
+         "company":"Oracle",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1660/thumbnail.gif",
+         "sessionIds":[
+            1469,
+            1469
+         ],
+         "sessions":[
+            {
+               "sessionId":1469,
+               "scheduleId":0,
+               "title":"A la découverte de JavaFX",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1469,
+               "scheduleId":0,
+               "title":"A la découverte de JavaFX",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1664,
+         "name":"Matthew Eernisse",
+         "bio":"Matthew has been building interactive Web applications for over a decade. He has worked with a wide range of technologies at various layers in the Web stack, including early ASP and TSQL; C#, Java, and JSP; PHP with Postgres and MySQL; Ruby and Python; and ActionScript -- as well as extensive work with JavaScript from the earliest versions of the Netscape browser onward. He is author of the SitePoint book, \"Build Your Own Ajax Web Applications.\"\r\n\r\nHe has contributed to numerous open-source projects, including the Dojo JavaScript toolkit, the Windmill testing-automation framework, and the Merb Web-development framework. He has also created a few: Jake, the JavaScript build-tool for NodeJS, the Geddy Web-development framework for NodeJS.\r\n\r\nMatthew works at Yammer as an Engineering Lead on their JavaScript team, working on both client- and server-side JavaScript code. He lives in San Francisco with his wife and three boys. Matthew plays the drums and speaks fluent Japanese.",
+         "company":"Yammer, Inc.",
+         "imageUri":"http://cfp2.devoxx.com/img/thumbnail.gif",
+         "sessionIds":[
+            1291
+         ],
+         "sessions":[
+            {
+               "sessionId":1291,
+               "scheduleId":0,
+               "title":"NodeJS and JavaScript Everywhere",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1714,
+         "name":"Kevin Bourrillion",
+         "bio":"Kevin Bourrillion, Charles Fry, Chris Povirk, Kurt Alfred Kluever and Gregory Kick are Google\u0027s Java Core Libraries team. They maintain the open-source Guava project, and the Caliper microbenchmarking framework.",
+         "company":"Google",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1714/thumbnail.gif",
+         "sessionIds":[
+            1447
+         ],
+         "sessions":[
+            {
+               "sessionId":1447,
+               "scheduleId":0,
+               "title":"Ask the Guava team",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":6,
+         "name":"Guillaume Laforge",
+         "bio":"Guillaume Laforge is the project lead of Groovy, the highly popular and successful dynamic language for the JVM. He co-authored Manning\u0027s best seller \"Groovy in Action\" with Dierk König, and is working for SpringSource (a division of VMWare) where he\u0027s hacking full time on cool and Groovy stuff. You can meet Guillaume at conferences around the world where he evangelizes the Groovy dynamic language, Domain-Specific Languages in Groovy, the agile Grails web framework or the Gaelyk lightweight toolkit for Google App Engine.",
+         "company":"SpringSource",
+         "imageUri":"http://cfp2.devoxx.com/static/images/6/thumbnail.gif",
+         "sessionIds":[
+            1237
+         ],
+         "sessions":[
+            {
+               "sessionId":1237,
+               "scheduleId":0,
+               "title":"Groovy 2.0 : quoi de neuf doc ?",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":68,
+         "name":"Steven Noels",
+         "bio":"Steven Noels is VP Product of NGDATA - a Big Data software company and maker of Lily - and responsible for NGDATA’s overall product strategy and roadmap.\r\n\r\nSteven co-founded Outerthought – now known as NGDATA – and is the original designer of the Lily platform, which sits at the core of the NGDATA software portfolio. He has 15 years of product management experience and is extensively networked with the open source community in and around the Apache Hadoop/HBase Big Data ecosystem. Outerthought was nominated Cool Vendor in Enterprise Content Management by Gartner in 2010.\r\n\r\nPrior to Outerthought / NGDATA, Steven held senior roles in technology consulting and product management with Alcatel and Wolters-Kluwer, specializing in complex and large-scale data management problems and content publishing. He’s a Member of the Apache Software Foundation and holds a board position in the GentBC innovation platform.",
+         "company":"Outerthought",
+         "imageUri":"http://cfp2.devoxx.com/static/images/68/thumbnail.gif",
+         "sessionIds":[
+            1280,
+            1280,
+            1280,
+            1280
+         ],
+         "sessions":[
+            {
+               "sessionId":1280,
+               "scheduleId":0,
+               "title":"Lily va faire les courses - Lily goes shopping",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1280,
+               "scheduleId":0,
+               "title":"Lily va faire les courses - Lily goes shopping",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1280,
+               "scheduleId":0,
+               "title":"Lily va faire les courses - Lily goes shopping",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1280,
+               "scheduleId":0,
+               "title":"Lily va faire les courses - Lily goes shopping",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":103,
+         "name":"Kito Mann",
+         "bio":"Kito D. Mann is editor-in-chief of JSF Central and the author of JavaServer Faces in Action (Manning). He is a member of several Java Community Process expert groups (including JSF and Portlets), and an internationally recognized speaker. Kito is also the Principal Consultant at Virtua specializing in enterprise application architecture, training, development, mentoring, and JSF product strategy. He holds a BA in Computer Science from Johns Hopkins University.",
+         "company":"Virtua",
+         "imageUri":"http://cfp2.devoxx.com/static/images/103/thumbnail.gif",
+         "sessionIds":[
+            1150,
+            1150,
+            1150,
+            1150
+         ],
+         "sessions":[
+            {
+               "sessionId":1150,
+               "scheduleId":0,
+               "title":"JavaServer Faces Antipatterns and Best Practices",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1150,
+               "scheduleId":0,
+               "title":"JavaServer Faces Antipatterns and Best Practices",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1150,
+               "scheduleId":0,
+               "title":"JavaServer Faces Antipatterns and Best Practices",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1150,
+               "scheduleId":0,
+               "title":"JavaServer Faces Antipatterns and Best Practices",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":116,
+         "name":"Antonio Goncalves",
+         "bio":"Antonio is a senior software architect specialized in Java/Java EE. As a consultant he advises customers in France and help them in defining their software architecture. Antonio is also the founder of the very successful Paris JUG and independent JCP member on JEE6 (JSR 316), JPA 2.0 (JSR 317) and EJB 3.1 (JSR 318). Based on all his experiences, he has written two books about Java EE 5 and recently on Java EE 6 with Glassfish. It explains, in a practical way, how to develop an application using most of the Java EE specifications.",
+         "company":"AGInc",
+         "imageUri":"http://cfp2.devoxx.com/static/images/116/thumbnail.gif",
+         "sessionIds":[
+            1183,
+            1474,
+            1474,
+            1474,
+            1474,
+            1474,
+            1474
+         ],
+         "sessions":[
+            {
+               "sessionId":1183,
+               "scheduleId":0,
+               "title":"JUG Leader",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1474,
+               "scheduleId":0,
+               "title":"Bienvenue à Devoxx France",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1474,
+               "scheduleId":0,
+               "title":"Bienvenue à Devoxx France",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1474,
+               "scheduleId":0,
+               "title":"Bienvenue à Devoxx France",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1474,
+               "scheduleId":0,
+               "title":"Bienvenue à Devoxx France",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1474,
+               "scheduleId":0,
+               "title":"Bienvenue à Devoxx France",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1474,
+               "scheduleId":0,
+               "title":"Bienvenue à Devoxx France",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":142,
+         "name":"Jevgeni Kabanov",
+         "bio":"Jevgeni Kabanov is the founder and CTO of ZeroTurnaround (www.zeroturnaround.com), a development tools company that focuses on productivity. He wrote the first version of the ZeroTurnaround flagship product, JRebel, a class-reloading JVM plugin.\r\n\r\nJevgeni has been speaking at international conferences for over 5 years, including JavaOne, JavaPolis/Devoxx, JavaZone, JAOO, QCon, TSSJS, JFokus and so on. He has an active research interest in programming languages, types and virtual machines, publishing several papers on topics ranging from category theoretical notions to typesafe Java DSLs.\r\n\r\nJevgeni is on the Expert Group for the JSR 342 (Java EE 7). He has started two open-source projects -- Aranea and Squill. You can follow Jevgeni on Twitter as @ekabanov. See http://lanyrd.com/people/ekabanov/ for conference history and schedule.",
+         "company":"ZeroTurnaround OÜ",
+         "imageUri":"http://cfp2.devoxx.com/static/images/142/thumbnail.gif",
+         "sessionIds":[
+            1043
+         ],
+         "sessions":[
+            {
+               "sessionId":1043,
+               "scheduleId":0,
+               "title":"import continuous.delivery.*;",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":184,
+         "name":"David Delabassee",
+         "bio":"David Delabassee is a Principal Consultant at Oracle Belgium. Prior to that, he spent the last 10 years at Sun Microsystems focusing on Java end-to-end (from the smart card to the high end server), all the related technologies, and the developer tools. He has been involved in Java projects since the early days of this technology. David is a steering member of Devoxx, Europe largest Java conference. \r\nIn his spare time, he enjoy tinkering and playing with technologies such as Java, Arduino, Processing, Linux, etc.",
+         "company":"Sun",
+         "imageUri":"http://cfp2.devoxx.com/static/images/184/thumbnail.gif",
+         "sessionIds":[
+            1377,
+            1458
+         ],
+         "sessions":[
+            {
+               "sessionId":1377,
+               "scheduleId":0,
+               "title":"Pour une fois soyons physique! Une introduction à Arduino.",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1458,
+               "scheduleId":0,
+               "title":"55 fonctionnalités de Java 7 dont vous n\u0027avez (probablement) pas encore entendu parler",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":195,
+         "name":"Ludovic Champenois",
+         "bio":"Ludovic Champenois est Ingenieur Logiciel travaillant chez Google dans le technologie Cloud, a San Francisco.\r\nDans le passe, il etait un des architectes de  GlassFish Java EE 6 serveur d\u0027applications.",
+         "company":"Google",
+         "imageUri":"http://cfp2.devoxx.com/static/images/195/thumbnail.gif",
+         "sessionIds":[
+            1011,
+            1011,
+            1011,
+            1011
+         ],
+         "sessions":[
+            {
+               "sessionId":1011,
+               "scheduleId":0,
+               "title":"Google App Engine: la complexité inversement proportionnelle a la scalabilité",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1011,
+               "scheduleId":0,
+               "title":"Google App Engine: la complexité inversement proportionnelle a la scalabilité",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1011,
+               "scheduleId":0,
+               "title":"Google App Engine: la complexité inversement proportionnelle a la scalabilité",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1011,
+               "scheduleId":0,
+               "title":"Google App Engine: la complexité inversement proportionnelle a la scalabilité",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":265,
+         "name":"Heinz Kabutz",
+         "bio":"Heinz Kabutz is best known for his publication \"The Java Specialists\u0027 Newsletter\", where he looks at some weird and wonderful topics of J2SE.  He has coded in several large Java applications since 1997 and teaches advanced Java courses to companies.",
+         "company":"Javaspecialists.eu",
+         "imageUri":"http://cfp2.devoxx.com/static/images/265/thumbnail.gif",
+         "sessionIds":[
+            1076,
+            1076
+         ],
+         "sessions":[
+            {
+               "sessionId":1076,
+               "scheduleId":0,
+               "title":"Deadlock Victim",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1076,
+               "scheduleId":0,
+               "title":"Deadlock Victim",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":276,
+         "name":"Neal Ford",
+         "bio":"Neal Ford is Software Architect and Meme Wrangler at ThoughtWorks, a global IT consultancy with an exclusive focus on end-to-end software development and delivery. He is also the designer and developer of applications, instructional materials, magazine articles, courseware, video/DVD presentations, and author and/or editor of 6 books spanning a variety of technologies, including the most recent The Productive Programmer. He focuses on designing and building of large-scale enterprise applications. He is also an internationally acclaimed speaker, speaking at over 100 developer conferences worldwide, delivering more than 600 talks. Check out his web site at http://www.nealford.com. He welcomes feedback and can be reached at nford@thoughtworks.com.",
+         "company":"ThoughtWorks Inc",
+         "imageUri":"http://cfp2.devoxx.com/static/images/276/thumbnail.gif",
+         "sessionIds":[
+            1135,
+            1135,
+            1135,
+            1475
+         ],
+         "sessions":[
+            {
+               "sessionId":1135,
+               "scheduleId":0,
+               "title":"The Productive Programmer",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1135,
+               "scheduleId":0,
+               "title":"The Productive Programmer",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1135,
+               "scheduleId":0,
+               "title":"The Productive Programmer",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1475,
+               "scheduleId":0,
+               "title":"Abstraction Distractions for France",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":381,
+         "name":"Julien Ponge",
+         "bio":"Julien Ponge is an Associate Professor in Computer Science and Engineering at INSA de Lyon, a leading engineering school in France. He is also a long-time opensource craftsman who enjoys learning about new technologies, methodologies and practices. He is the creator of the IzPack opensource installer framework, and he has participated in several other projects, including the GlassFish application server in cooperation with Sun Microsystems (now Oracle). He is a regular speaker at industrial events including Devoxx and Java User Groups. He also wrote technical articles for the Oracle Technology Network and Oracle Java Magazine.",
+         "company":"INSA de Lyon",
+         "imageUri":"http://cfp2.devoxx.com/static/images/381/thumbnail.gif",
+         "sessionIds":[
+            1233,
+            1233,
+            1233,
+            1233
+         ],
+         "sessions":[
+            {
+               "sessionId":1233,
+               "scheduleId":0,
+               "title":"Manipulation de bytecode : démocratisons la magie noire",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1233,
+               "scheduleId":0,
+               "title":"Manipulation de bytecode : démocratisons la magie noire",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1233,
+               "scheduleId":0,
+               "title":"Manipulation de bytecode : démocratisons la magie noire",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1233,
+               "scheduleId":0,
+               "title":"Manipulation de bytecode : démocratisons la magie noire",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":447,
+         "name":"Alexis Hassler",
+         "bio":"Alexis est développeur et formateur Java depuis une douzaine d\u0027années. Indépendant, il essaie d\u0027aider ses clients à améliorer leur façon de développer et de déployer leurs applications Java.\r\n\r\nIl est co-leader du LyonJUG (lyonjug.org) et aide à l’organisation de Mix-IT (mix-it.fr), l\u0027excellente conférence annuelle à Lyon. Enfin, il participe parfois au podcast Cast-IT (cast-it.fr).",
+         "company":"Sewatech",
+         "imageUri":"http://cfp2.devoxx.com/static/images/447/thumbnail.gif",
+         "sessionIds":[
+            1261,
+            1261,
+            1261,
+            1261,
+            1261,
+            1261,
+            1261,
+            1261,
+            1261,
+            1261,
+            1261,
+            1261,
+            1261,
+            1261,
+            1470,
+            1470,
+            1470
+         ],
+         "sessions":[
+            {
+               "sessionId":1261,
+               "scheduleId":0,
+               "title":"Les 3 A pour Java EE 6",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1261,
+               "scheduleId":0,
+               "title":"Les 3 A pour Java EE 6",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1261,
+               "scheduleId":0,
+               "title":"Les 3 A pour Java EE 6",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1261,
+               "scheduleId":0,
+               "title":"Les 3 A pour Java EE 6",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1261,
+               "scheduleId":0,
+               "title":"Les 3 A pour Java EE 6",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1261,
+               "scheduleId":0,
+               "title":"Les 3 A pour Java EE 6",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1261,
+               "scheduleId":0,
+               "title":"Les 3 A pour Java EE 6",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1261,
+               "scheduleId":0,
+               "title":"Les 3 A pour Java EE 6",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1261,
+               "scheduleId":0,
+               "title":"Les 3 A pour Java EE 6",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1261,
+               "scheduleId":0,
+               "title":"Les 3 A pour Java EE 6",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1261,
+               "scheduleId":0,
+               "title":"Les 3 A pour Java EE 6",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1261,
+               "scheduleId":0,
+               "title":"Les 3 A pour Java EE 6",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1261,
+               "scheduleId":0,
+               "title":"Les 3 A pour Java EE 6",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1261,
+               "scheduleId":0,
+               "title":"Les 3 A pour Java EE 6",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1470,
+               "scheduleId":0,
+               "title":"Tester la persistance Java avec Arquillian",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1470,
+               "scheduleId":0,
+               "title":"Tester la persistance Java avec Arquillian",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1470,
+               "scheduleId":0,
+               "title":"Tester la persistance Java avec Arquillian",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":617,
+         "name":"Mattias Karlsson",
+         "bio":"Mattias spends most of his time working with software development in the financial sector as well as leading a Java User Group in Stockholm, Sweden. The JUG holds 8-10 fully booked meetings per year with more then 200 participants at every meeting. Mattias has worked with OO software development since 1993. Through the years he has gained experience from many different roles, including developer, architect, team leader, coach, manager, and teacher. Mattias also wrote a chapter in the \"97 Things Every Programmer Should Know\" about Code Reviews\r\n\r\nIn his spare time, Mattias can be found playing with his children or riding his motorcycle, as well as changing underprivileged people\u0027s lives by building houses with Habitat for Humanity. Mattias leads a JUG Kiva team. Kiva is a person to person micro-loan organization. Join his effort to improve the world at http://www.kiva.org/team/jug.",
+         "company":"Avega Group",
+         "imageUri":"http://cfp2.devoxx.com/static/images/617/thumbnail.gif",
+         "sessionIds":[
+            1194,
+            1194,
+            1194
+         ],
+         "sessions":[
+            {
+               "sessionId":1194,
+               "scheduleId":0,
+               "title":"Code Reviews - One Thing Every Programmer Should Know",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1194,
+               "scheduleId":0,
+               "title":"Code Reviews - One Thing Every Programmer Should Know",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1194,
+               "scheduleId":0,
+               "title":"Code Reviews - One Thing Every Programmer Should Know",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":618,
+         "name":"Antoine Sabot-Durand",
+         "bio":"Consultant et architecte chez Ippon Technologies, Antoine Sabot-Durand a acquis une expertise sur Java EE et plus particulièrement sur EJB 3.X et CDI. Il est l\u0027auteur de quelques articles ayant alimenté le débat sur les standards et les choix technologiques sur les développements Java comme \"Les rendez-vous manqués de Spring\" (http://blog.ippon.fr/2010/03/30/les-rendez-vous-manques-de-spring/) ou plus récemment une suite d\u0027article sur Java EE 6(http://blog.ippon.fr/tag/java-ee/)\r\nIl est également membre de l\u0027Expert Group CDI 1.1, initial commiter sur le projet Apache Deltaspike et technical Leader sur le module Seam Social du projet Seam 3 : http://seamframework.org/Seam3/SocialModule.\r\nVous pouvez le suivre sur http://twitter.com/antoine_sd",
+         "company":"Ippon Technologies",
+         "imageUri":"http://cfp2.devoxx.com/static/images/618/thumbnail.gif",
+         "sessionIds":[
+            1113,
+            1113,
+            1113,
+            1113,
+            1113,
+            1113,
+            1113,
+            1113,
+            1113,
+            1113,
+            1131,
+            1131,
+            1131
+         ],
+         "sessions":[
+            {
+               "sessionId":1113,
+               "scheduleId":0,
+               "title":"CDI mis en pratique avec travers Seam Social et Weld OSGI",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1113,
+               "scheduleId":0,
+               "title":"CDI mis en pratique avec travers Seam Social et Weld OSGI",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1113,
+               "scheduleId":0,
+               "title":"CDI mis en pratique avec travers Seam Social et Weld OSGI",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1113,
+               "scheduleId":0,
+               "title":"CDI mis en pratique avec travers Seam Social et Weld OSGI",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1113,
+               "scheduleId":0,
+               "title":"CDI mis en pratique avec travers Seam Social et Weld OSGI",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1113,
+               "scheduleId":0,
+               "title":"CDI mis en pratique avec travers Seam Social et Weld OSGI",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1113,
+               "scheduleId":0,
+               "title":"CDI mis en pratique avec travers Seam Social et Weld OSGI",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1113,
+               "scheduleId":0,
+               "title":"CDI mis en pratique avec travers Seam Social et Weld OSGI",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1113,
+               "scheduleId":0,
+               "title":"CDI mis en pratique avec travers Seam Social et Weld OSGI",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1113,
+               "scheduleId":0,
+               "title":"CDI mis en pratique avec travers Seam Social et Weld OSGI",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1131,
+               "scheduleId":0,
+               "title":"Bref, comment je suis devenu commiter Apache (presque) par accident",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1131,
+               "scheduleId":0,
+               "title":"Bref, comment je suis devenu commiter Apache (presque) par accident",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1131,
+               "scheduleId":0,
+               "title":"Bref, comment je suis devenu commiter Apache (presque) par accident",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":762,
+         "name":"Stephane Epardaud",
+         "bio":"Depuis l\u0027arrière-pays Niçois, Stéphane travaille pour Red Hat sur le projet Ceylon.\r\n\r\nPassionné de hacks Java, C, Perl ou Scheme. Baigné dans les standards Web et les bases de données, il a implémente entre autres un éditeur XML WYSIWYG, une librairie de multi-threading en C, un langage pour agents mobiles en Scheme (compilateur, machine virtuelle), des services Web 2.0 RESTful et des interfaces Web riches avec JavaScript et HTML 5.\r\n\r\nPrésentations au Scheme Workshop 2004, à l\u0027IUT de Nice en 2008, Polytech\u0027Nice en 2009, au Mars JUG, Paris JUG et Riviera JUG (dont il est créateur) et Devoxx 2011. Côté open-source, il est committer sur RESTEasy, auteur de jax-doclets, stamps.js et de nombreux modules Play! Framework, et depuis peu committer sur Ceylon pour Red Hat.",
+         "company":"JBoss by Red Hat",
+         "imageUri":"http://cfp2.devoxx.com/static/images/762/thumbnail.gif",
+         "sessionIds":[
+            991,
+            991
+         ],
+         "sessions":[
+            {
+               "sessionId":991,
+               "scheduleId":0,
+               "title":"Introduction à Ceylon",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":991,
+               "scheduleId":0,
+               "title":"Introduction à Ceylon",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":817,
+         "name":"Cyrille Le Clerc",
+         "bio":"Cyrille Le Clerc est Directeur Technique chez Xebia. Après s\u0027être longtemps engagé avec ses clients sur des plateformes web à fort traffic dans un mode \"You build it, you run it\", Cyrille a naturellement plongé dans le Cloud Computing et le courant DevOps.\r\n\r\nCyrille est aussi bloggeur-intervieweur sur blog.xebia.fr et un speaker régulier dans des conférences Java.",
+         "company":"Xebia",
+         "imageUri":"http://cfp2.devoxx.com/static/images/817/thumbnail.gif",
+         "sessionIds":[
+            1303
+         ],
+         "sessions":[
+            {
+               "sessionId":1303,
+               "scheduleId":0,
+               "title":"Changeons la conception de nos applications grâce aux services Cloud",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":863,
+         "name":"Sébastien Blanc",
+         "bio":"Sébastien Blanc est ingénieur JEE, après avoir travaillé pendant 7 ans aux Pays-Bas en tant que Software Engineer, il a décidé de revenir aux \"sources\" dans le sud-est. Il travaille désormais pour Sopra et pour le client Amadeus dans le pôle architecture. Mis a part son expérience JEE \"lourde\" (middleware, secteur bancaire/assurance) il s’intéresse au framework Grails et au langage Groovy. Il est également évangéliste pour tout ce qui est Application Web Mobile/HTML5.",
+         "company":"Sopra",
+         "imageUri":"http://cfp2.devoxx.com/static/images/863/thumbnail.gif",
+         "sessionIds":[
+            1028,
+            1028,
+            1028,
+            1028,
+            1028
+         ],
+         "sessions":[
+            {
+               "sessionId":1028,
+               "scheduleId":0,
+               "title":"Bâtir des applications web mobiles dans le Cloud avec Grails",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1028,
+               "scheduleId":0,
+               "title":"Bâtir des applications web mobiles dans le Cloud avec Grails",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1028,
+               "scheduleId":0,
+               "title":"Bâtir des applications web mobiles dans le Cloud avec Grails",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1028,
+               "scheduleId":0,
+               "title":"Bâtir des applications web mobiles dans le Cloud avec Grails",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1028,
+               "scheduleId":0,
+               "title":"Bâtir des applications web mobiles dans le Cloud avec Grails",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":870,
+         "name":"Patrick Chanezon",
+         "bio":"Patrick Chanezon joined VMware in 2011 in San Francisco, to create the developer relations team, and make VMware and Cloud Foundry the first choice of developers moving their apps to the cloud. Previously he worked at Google from 2005 to 2011, where he managed the Cloud and Tools Developer Relations team and has been building and growing developer ecosystems for HTML5, OpenSocial, Google Checkout and the AdWords API, and worked as a software architect at Sun Microsystems, AOL, Netscape and Accenture.\r\nMore on his blog at http://wordpress.chanezon.com/ or his twitter stream at http://twitter.com/chanezon",
+         "company":"VMware",
+         "imageUri":"http://cfp2.devoxx.com/static/images/870/thumbnail.gif",
+         "sessionIds":[
+            1471,
+            1471,
+            1471,
+            1471
+         ],
+         "sessions":[
+            {
+               "sessionId":1471,
+               "scheduleId":0,
+               "title":"Portrait du developeur en \"The Artist\"",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1471,
+               "scheduleId":0,
+               "title":"Portrait du developeur en \"The Artist\"",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1471,
+               "scheduleId":0,
+               "title":"Portrait du developeur en \"The Artist\"",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1471,
+               "scheduleId":0,
+               "title":"Portrait du developeur en \"The Artist\"",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":871,
+         "name":"Eric Lefevre-Ardant",
+         "bio":"Eric started coding in Java in 1996. Since then, he has spent half of his career in a Java consultancy, and half with software editors. He is currently part of the technical team at PolySpot, an editor of entreprise search software.",
+         "company":"Algodeal",
+         "imageUri":"http://cfp2.devoxx.com/static/images/871/thumbnail.gif",
+         "sessionIds":[
+            1012
+         ],
+         "sessions":[
+            {
+               "sessionId":1012,
+               "scheduleId":0,
+               "title":"Paris Clojure User Group BOF",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":924,
+         "name":"Xavier Hanin",
+         "bio":"Xavier est Architecte principal et développeur passionné chez 4SH, une société qui propose ses services afin d\u0027aider les éditeurs de logiciel à s\u0027adapter à un monde changeant. Il est très impliqué dans la communauté Java, c\u0027est le JUG Leader du BordeauxJUG, et c\u0027est aussi le créateur d\u0027Apache Ivy\r\n\r\nXavier is the lead architect and passionate developer at 4SH, a company helping software editors to adapt their offer to a changing world. He is deeply involved in the Java community, being the creator and leader of BordeauxJUG, and is also known as the creator of Apache Ivy.",
+         "company":"4SH FRANCE",
+         "imageUri":"http://cfp2.devoxx.com/static/images/924/thumbnail.gif",
+         "sessionIds":[
+            1064,
+            1064,
+            1064,
+            1064,
+            1064,
+            1064,
+            1064
+         ],
+         "sessions":[
+            {
+               "sessionId":1064,
+               "scheduleId":0,
+               "title":"Voxxr: Ze Highly Interactive Talk",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1064,
+               "scheduleId":0,
+               "title":"Voxxr: Ze Highly Interactive Talk",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1064,
+               "scheduleId":0,
+               "title":"Voxxr: Ze Highly Interactive Talk",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1064,
+               "scheduleId":0,
+               "title":"Voxxr: Ze Highly Interactive Talk",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1064,
+               "scheduleId":0,
+               "title":"Voxxr: Ze Highly Interactive Talk",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1064,
+               "scheduleId":0,
+               "title":"Voxxr: Ze Highly Interactive Talk",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1064,
+               "scheduleId":0,
+               "title":"Voxxr: Ze Highly Interactive Talk",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":993,
+         "name":"James Ward",
+         "bio":"James Ward (www.jamesward.com) is a Pricipal Developer Evangelist at salesforce.com. Today he focuses on teaching developers about running Java on the Cloud. James frequently presents at conferences around the world such as JavaOne, Devoxx, and many other Java get-togethers. Along with Bruce Eckel, James co-authored First Steps in Flex. He has also published numerous screencasts, blogs, and technical articles. Starting with Pascal and Assembly in the 80′s, James found his passion for writing code. Beginning in the 90′s he began doing web development with HTML, Perl/CGI, then Java. After building a Flex and Java based customer service portal in 2004 for Pillar Data Systems he became a Technical Evangelist for Flex at Adobe. You can find him tweeting as @_JamesWard, answering questions on StackOverflow.com and posting code at github.com/jamesward.",
+         "company":"Heroku",
+         "imageUri":"http://cfp2.devoxx.com/static/images/993/thumbnail.gif",
+         "sessionIds":[
+            1070,
+            1070,
+            1070,
+            1070,
+            1070,
+            1070,
+            1070,
+            1188,
+            1188,
+            1188,
+            1188,
+            1188,
+            1188,
+            1188,
+            1188,
+            1188,
+            1188
+         ],
+         "sessions":[
+            {
+               "sessionId":1070,
+               "scheduleId":0,
+               "title":"Client/Server Apps with HTML5 and Java",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1070,
+               "scheduleId":0,
+               "title":"Client/Server Apps with HTML5 and Java",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1070,
+               "scheduleId":0,
+               "title":"Client/Server Apps with HTML5 and Java",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1070,
+               "scheduleId":0,
+               "title":"Client/Server Apps with HTML5 and Java",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1070,
+               "scheduleId":0,
+               "title":"Client/Server Apps with HTML5 and Java",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1070,
+               "scheduleId":0,
+               "title":"Client/Server Apps with HTML5 and Java",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1070,
+               "scheduleId":0,
+               "title":"Client/Server Apps with HTML5 and Java",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1188,
+               "scheduleId":0,
+               "title":"Developing, Deploying and Scaling in the Cloud with Play",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1188,
+               "scheduleId":0,
+               "title":"Developing, Deploying and Scaling in the Cloud with Play",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1188,
+               "scheduleId":0,
+               "title":"Developing, Deploying and Scaling in the Cloud with Play",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1188,
+               "scheduleId":0,
+               "title":"Developing, Deploying and Scaling in the Cloud with Play",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1188,
+               "scheduleId":0,
+               "title":"Developing, Deploying and Scaling in the Cloud with Play",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1188,
+               "scheduleId":0,
+               "title":"Developing, Deploying and Scaling in the Cloud with Play",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1188,
+               "scheduleId":0,
+               "title":"Developing, Deploying and Scaling in the Cloud with Play",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1188,
+               "scheduleId":0,
+               "title":"Developing, Deploying and Scaling in the Cloud with Play",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1188,
+               "scheduleId":0,
+               "title":"Developing, Deploying and Scaling in the Cloud with Play",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1188,
+               "scheduleId":0,
+               "title":"Developing, Deploying and Scaling in the Cloud with Play",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1029,
+         "name":"Stephane Maldini",
+         "bio":"Stéphane Maldini est consultant spring/grails chez Doc4Web consulting. Il développe une forte addiction à ces petits nouveaux plaisirs que sont les frameworks conventionnés élégants et productifs. Depuis ses débuts il fait de l\u0027expérience utilisateur sa priorité dans ses projets, l\u0027outil agile open-source iceScrum en est un exemple. Développeur Grails depuis 4 ans et récemment devenu committeur du framework, il sillonne l\u0027Europe au gré de ses missions pour auditer, former et aider les entreprises utilisatrices.",
+         "company":"doc4web",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1029/thumbnail.gif",
+         "sessionIds":[
+            1182,
+            1182,
+            1182,
+            1182
+         ],
+         "sessions":[
+            {
+               "sessionId":1182,
+               "scheduleId":0,
+               "title":"BOF UserGroup Groovy \u0026 Grails",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1182,
+               "scheduleId":0,
+               "title":"BOF UserGroup Groovy \u0026 Grails",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1182,
+               "scheduleId":0,
+               "title":"BOF UserGroup Groovy \u0026 Grails",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1182,
+               "scheduleId":0,
+               "title":"BOF UserGroup Groovy \u0026 Grails",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1032,
+         "name":"Olivier Gaudin",
+         "bio":"Olivier Gaudin est co-fondateur et CEO de la société SonarSource éditrice de Sonar, la plateforme open source de gestion de la qualité du code source.\r\n\r\nAvant de démarrer l\u0027aventure Sonar, Olivier a travaillé pendant une dizaine d\u0027années principalement dans le monde bancaire en tant que responsable des développements ainsi que du support applicatif. C\u0027est dans ce contexte, et notamment confronté à des problématiques d\u0027externalisation, qu\u0027il a développé une sensibilité particulière à la solidité des process et à la qualité interne et externe des livrables. En 2007, Olivier découvre le projet Sonar et c\u0027est fin 2007 qu\u0027il décide avec Freddy Mallet et Simon Brandhof de créer la société SonarSource afin d\u0027en accélérer le développement et l\u0027adoption.",
+         "company":"SonarSource",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1032/thumbnail.gif",
+         "sessionIds":[
+            1198,
+            1199,
+            1199
+         ],
+         "sessions":[
+            {
+               "sessionId":1198,
+               "scheduleId":0,
+               "title":"Analyse du code source",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1199,
+               "scheduleId":0,
+               "title":"De l\u0027audit de Code à l\u0027Inspection Continue",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1199,
+               "scheduleId":0,
+               "title":"De l\u0027audit de Code à l\u0027Inspection Continue",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1137,
+         "name":"Yolande Poirier",
+         "bio":"Yolande Poirier a organisé à Oracle des conferences avec des travaux practiques utilisant les logiciels d’Alice et Greenfoot pour des jeunes âgés de 11 à 18 ans.",
+         "company":"Oracle",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1137/thumbnail.gif",
+         "sessionIds":[
+            1179
+         ],
+         "sessions":[
+            {
+               "sessionId":1179,
+               "scheduleId":0,
+               "title":"Introduire Java avec Alice et Greenfoot",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1292,
+         "name":"Sadek Drobi",
+         "bio":"Sadek Drobi est directeur technique de Zenexity, cabinet spécialisé dans les architectures orientées Web. Il est un architecte expérimenté, spécialisé dans la création d\u0027application d\u0027entreprise fortement distribuées, avec un intérêt particulier dans les langages de programmation et la création d\u0027API et de framework pour résoudre les problèmes complexes au bon niveau d\u0027abstraction. Il est `Core Developer` sur le project Play.",
+         "company":"Zenexity",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1292/thumbnail.gif",
+         "sessionIds":[
+            1255
+         ],
+         "sessions":[
+            {
+               "sessionId":1255,
+               "scheduleId":0,
+               "title":"Légendes urbaines sur Scala; Venez vous faire votre propre opinion.",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1380,
+         "name":"Nicolas Romanetti",
+         "bio":"Nicolas a plus de 13 années d\u0027expérience dans le développement logiciel et la conduite de projets informatiques. Il a passé 5 années aux Etats-Unis dans la Silicon Valley où il a travaillé pour deux éditeurs de logiciels.\r\n\r\nA son retour en France, il a travaillé en tant que consultant indépendant avant de co-fonder la société Jaxio et le service springfuse.com. Nicolas est diplomé de Télécom Paris.",
+         "company":"JAXIO",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1380/thumbnail.gif",
+         "sessionIds":[
+            1093,
+            1093,
+            1124,
+            1124,
+            1124,
+            1124,
+            1124,
+            1124
+         ],
+         "sessions":[
+            {
+               "sessionId":1093,
+               "scheduleId":0,
+               "title":"Introduction à Cassandra",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1093,
+               "scheduleId":0,
+               "title":"Introduction à Cassandra",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1124,
+               "scheduleId":0,
+               "title":"Hands on Cassandra",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1124,
+               "scheduleId":0,
+               "title":"Hands on Cassandra",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1124,
+               "scheduleId":0,
+               "title":"Hands on Cassandra",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1124,
+               "scheduleId":0,
+               "title":"Hands on Cassandra",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1124,
+               "scheduleId":0,
+               "title":"Hands on Cassandra",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1124,
+               "scheduleId":0,
+               "title":"Hands on Cassandra",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1382,
+         "name":"David Gageot",
+         "bio":"Bonjour, je suis David Gageot, développeur indépendant. Ma passion ? L\u0027écriture de logiciels pointus mais simples. J\u0027ai pour leitmotiv d\u0027être un facilitateur qui, par ma créativité et mon expertise, aide les équipes à être plus innovantes et plus efficaces.\r\nJe participe à des projets Java depuis 1998, comme responsable R\u0026D chez l\u0027éditeur Adesoft puis, comme expert Java et Scrum Master certifié chez Valtech et CTO chez Algodeal, un fond d\u0027investissement quantitatif.\r\nDepuis 2010, j\u0027ai pris le leadership sur le projet open-source Infinitest. Un plugin pour Eclipse et IntelliJ qui permet, après chaque changement de code, de jouer les tests unitaires potentiellement impactés. Infinitest est l\u0027outil rêvé pour les adeptes du TDD car il réduit les cycles de feedback.\r\nVous suivez peut-être mon blog JavaBien! depuis 2004.",
+         "company":"RETOUR1024",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1382/thumbnail.gif",
+         "sessionIds":[
+            987,
+            987,
+            987
+         ],
+         "sessions":[
+
+         ]
+      },
+      {
+         "speakerId":1389,
+         "name":"Alexandre Bertails",
+         "bio":"Alexandre Bertails est Lead Software Developer au W3C, le Consortium en charge des standards du Web.\r\n\r\nAlexandre est expert dans les technologies du Web, en particulier celles liées au Semantic Web et à Linked Data. C\u0027est un passionné des langages de programmation (en autres Scala, mais pas que) et de la Science Informatique en général.",
+         "company":"W3C",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1389/thumbnail.gif",
+         "sessionIds":[
+            1037,
+            1037,
+            1037,
+            1037,
+            1037,
+            1038,
+            1038,
+            1038,
+            1038
+         ],
+         "sessions":[
+            {
+               "sessionId":1037,
+               "scheduleId":0,
+               "title":"Linked Data - Big Data at Web scale",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1037,
+               "scheduleId":0,
+               "title":"Linked Data - Big Data at Web scale",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1037,
+               "scheduleId":0,
+               "title":"Linked Data - Big Data at Web scale",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1037,
+               "scheduleId":0,
+               "title":"Linked Data - Big Data at Web scale",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1037,
+               "scheduleId":0,
+               "title":"Linked Data - Big Data at Web scale",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1038,
+               "scheduleId":0,
+               "title":"Guide de survie en théorie des langages",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1038,
+               "scheduleId":0,
+               "title":"Guide de survie en théorie des langages",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1038,
+               "scheduleId":0,
+               "title":"Guide de survie en théorie des langages",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1038,
+               "scheduleId":0,
+               "title":"Guide de survie en théorie des langages",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1393,
+         "name":"Mathilde Lemee",
+         "bio":"Mathilde Lemée est une consultante Java indépendante, membre du réseau des zindeps, groupement d’indépendants pronant une autre manière de travailler. Elle est actuellement très active au sein des JDuchess, groupement feminin autour de Java, qu’elle a co-fondé en 2010.\r\n\r\nElle est à l’origine de www.java-freelance.fr , où elle poste sur les sujets qui l’interessent (tests, performance, nouveautés …). Elle est intervenu dans différentes conférences (ParisJUG, Marmite, Mix-it, SoftShake...).",
+         "company":"A-Consulting",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1393/thumbnail.gif",
+         "sessionIds":[
+            1126,
+            1126,
+            1446,
+            1446
+         ],
+         "sessions":[
+            {
+               "sessionId":1126,
+               "scheduleId":0,
+               "title":"FluentLenium, une autre facon de faire du Selenium",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1126,
+               "scheduleId":0,
+               "title":"FluentLenium, une autre facon de faire du Selenium",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1446,
+               "scheduleId":0,
+               "title":"Tester une application Web avec Selenium 2, Selenium Grid et TestNG",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1446,
+               "scheduleId":0,
+               "title":"Tester une application Web avec Selenium 2, Selenium Grid et TestNG",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1401,
+         "name":"Julien Dubois",
+         "bio":"Julien Dubois est directeur du pôle conseil chez Ippon Technologies, société spécialisée dans le développement et l’architecture d’applications Java. Il y dirige une équipe de consultants et architectes de haut niveau, et intervient régulièrement chez les clients de la société. Julien est connu dans le monde Java pour avoir co-écrit le livre \"Spring par la pratique\", avoir dirigé la filiale française de SpringSource, et pour parler régulièrement à des conférences. Vous pouvez le suivre sur Twitter: @juliendubois",
+         "company":"Ippon Technologies",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1401/thumbnail.gif",
+         "sessionIds":[
+            1039,
+            1039,
+            1039,
+            1039
+         ],
+         "sessions":[
+            {
+               "sessionId":1039,
+               "scheduleId":0,
+               "title":"Nouveau look pour une nouvelle vie: Spring, JQuery et HTML5",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1039,
+               "scheduleId":0,
+               "title":"Nouveau look pour une nouvelle vie: Spring, JQuery et HTML5",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1039,
+               "scheduleId":0,
+               "title":"Nouveau look pour une nouvelle vie: Spring, JQuery et HTML5",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1039,
+               "scheduleId":0,
+               "title":"Nouveau look pour une nouvelle vie: Spring, JQuery et HTML5",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1405,
+         "name":"Alexis Midon",
+         "bio":"[fr]\r\nAlexis Midon, ingénieur chez C3, participe au dévelopment d\u0027une platforme et d\u0027applications visant à réduire la consommation d\u0027énergie. Ruby, Javascript, DevOps, REST, le travail en équipe, l\u0027open-source le passionnent.  Il a participé aux projets Apache Buildr et Apache ODE, au livre JavaEE 5 (Eyrolles). Alexis vit à San Francisco et ne manque jamais une occasion de faire de la voile sur la baie!\r\n\r\n[en]\r\nAlexis Midon is a passionate software engineer, with a strong addiction to Ruby and Javascript.  He believes in software craftsmanship, automation, REST, open-source and team work. Now living in San Francisco, Alexis works on the C3 server platform trying to save companies money on energy bills. Prior to joining the C3 team, Alexis spent 5 years building financial applications and process execution engines. On windy days, you will find him sailing the San Francisco bay.",
+         "company":"C3",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1405/thumbnail.gif",
+         "sessionIds":[
+            1141,
+            1141,
+            1141,
+            1141,
+            1141,
+            1141
+         ],
+         "sessions":[
+            {
+               "sessionId":1141,
+               "scheduleId":0,
+               "title":"Apache Buildr",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1141,
+               "scheduleId":0,
+               "title":"Apache Buildr",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1141,
+               "scheduleId":0,
+               "title":"Apache Buildr",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1141,
+               "scheduleId":0,
+               "title":"Apache Buildr",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1141,
+               "scheduleId":0,
+               "title":"Apache Buildr",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1141,
+               "scheduleId":0,
+               "title":"Apache Buildr",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1406,
+         "name":"Romain Linsolas",
+         "bio":"Développeur Java depuis le début du siècle, Romain est passionné par l\u0027innovation technique.\r\nEmployé par le CNRS sur un projet d\u0027astrophysique, puis consultant chez Valtech et enfin leader technique pour la Société Générale, Romain est aussi impliqué dans la communauté de developpez.com (en tant que rédacteur et modérateur).\r\nPassionné également par les principes de l\u0027intégration continue, il n\u0027a de cesse d\u0027améliorer et d\u0027automatiser les processus au sein des équipes pour lesquelles il travaille.",
+         "company":"Société Générale",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1406/thumbnail.gif",
+         "sessionIds":[
+            1331,
+            1331,
+            1331,
+            1333,
+            1333,
+            1333,
+            1333
+         ],
+         "sessions":[
+            {
+               "sessionId":1331,
+               "scheduleId":0,
+               "title":"TestNG, parce que vos tests le valent bien",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1331,
+               "scheduleId":0,
+               "title":"TestNG, parce que vos tests le valent bien",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1331,
+               "scheduleId":0,
+               "title":"TestNG, parce que vos tests le valent bien",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1333,
+               "scheduleId":0,
+               "title":"Chouchoutez votre code JavaScript",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1333,
+               "scheduleId":0,
+               "title":"Chouchoutez votre code JavaScript",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1333,
+               "scheduleId":0,
+               "title":"Chouchoutez votre code JavaScript",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1333,
+               "scheduleId":0,
+               "title":"Chouchoutez votre code JavaScript",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1409,
+         "name":"David Pilato",
+         "bio":"Tombé dans l\u0027informatique à 7 ans grâce à un magnifique ZX81 et son 1ko de RAM ;-)\r\nEcole Nationale d’Ingénieurs de Brest – Promo 1994\r\n3 ans en SSII, bon à tout faire\r\n3 ans chez Cegetel/SFR, touche à tout\r\n4 ans chez e-Brands, startup internet des années 2000, chef de projets\r\nDepuis 2005, DGDDI (Douane), mouton à 5 pattes\r\n- Projet de déclaration de douane en ligne (entreprises)\r\n- Projet de gestion des contrôles de la douane (douaniers)\r\n40 ans tout pile depuis quelques semaines.\r\nDavid utilise Elasticsearch depuis un an pour répondre aux besoins habituels de recherche de données dans les systèmes d\u0027information. A l\u0027origine du groupe français pour Elasticsearch (@elasticsearchfr), il est également l\u0027auteur du plugin River RSS pour Elasticsearch ainsi que d\u0027une factory Spring pour Elasticsearch.\r\nTwitter : @dadoonet et @elasticsearchfr\r\nGithub : https://github.com/dadoonet",
+         "company":"Douane",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1409/thumbnail.gif",
+         "sessionIds":[
+            1091,
+            1091,
+            1091,
+            1091,
+            1091
+         ],
+         "sessions":[
+            {
+               "sessionId":1091,
+               "scheduleId":0,
+               "title":"ElasticSearch : moteur de recherche NoSQL/REST/JSON taillé pour le cloud",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1091,
+               "scheduleId":0,
+               "title":"ElasticSearch : moteur de recherche NoSQL/REST/JSON taillé pour le cloud",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1091,
+               "scheduleId":0,
+               "title":"ElasticSearch : moteur de recherche NoSQL/REST/JSON taillé pour le cloud",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1091,
+               "scheduleId":0,
+               "title":"ElasticSearch : moteur de recherche NoSQL/REST/JSON taillé pour le cloud",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1091,
+               "scheduleId":0,
+               "title":"ElasticSearch : moteur de recherche NoSQL/REST/JSON taillé pour le cloud",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1425,
+         "name":"Hugo Lassiège",
+         "bio":"Hugo Lassiège a démarré en 2002 et est passé successivement en startup, SSII, éditeur de logiciel et freelance en passant par des interventions ponctuelles en IUT. \r\nSon parcours lui a permis de toucher à de multiples langages : C, C++, C#, Php, Python, Java etc...\r\nPassionné par la technique, il tient un blog sur la toile (http://hakanai.free.fr) et est aussi rédacteur sur developpez.com.\r\nRécemment il vient de sortir localizeyourapps (http://www.localizeyourapps.com) et de participer à la fondation de Lateral-Thoughts (http://www.lateral-thoughts.com).",
+         "company":"Lateral-Thoughts",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1425/thumbnail.gif",
+         "sessionIds":[
+            1085,
+            1085,
+            1085
+         ],
+         "sessions":[
+            {
+               "sessionId":1085,
+               "scheduleId":0,
+               "title":"Localize your apps",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1085,
+               "scheduleId":0,
+               "title":"Localize your apps",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1085,
+               "scheduleId":0,
+               "title":"Localize your apps",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1431,
+         "name":"Brice Dutheil",
+         "bio":"Hello, je suis Brice Dutheil, un technophile Java indépendant. Ca fait maintenant 6 ans que je suis rentré dans cette vie active du développeur; d\u0027abord un tout petit peu de Linux puis beaucoup de Java.\r\n\r\nDepuis la vie du logiciel d\u0027entreprise n\u0027est plus suffisante, il fallait dépasser les remarques d\u0027overengineering à la moindre utilisation d\u0027un pattern. Il en est ressorti que je me suis impliqué progressivement dans un projet Open Source; Mockito. Aujourd\u0027hui, entouré par des gens passionnés, j\u0027ai envie d\u0027aller plus loin encore.",
+         "company":"Freelance",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1431/thumbnail.gif",
+         "sessionIds":[
+            1095
+         ],
+         "sessions":[
+            {
+               "sessionId":1095,
+               "scheduleId":0,
+               "title":"Hackergarten Paris",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1440,
+         "name":"Stéphane Landelle",
+         "bio":"Directeur Technique d\u0027eBusiness Information\r\n12 ans de roulage de bosse en consulting Java/JEE qui n\u0027ont pas émoussé une envie de découvrir.\r\nDernière claque en date : Scala!\r\nA l\u0027origine du projet Gatling",
+         "company":"eBusiness Information, Excilys Group",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1440/thumbnail.gif",
+         "sessionIds":[
+            1065,
+            1065,
+            1065,
+            1065
+         ],
+         "sessions":[
+            {
+               "sessionId":1065,
+               "scheduleId":0,
+               "title":"Réaliser des tests de charges avec Gatling",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1065,
+               "scheduleId":0,
+               "title":"Réaliser des tests de charges avec Gatling",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1065,
+               "scheduleId":0,
+               "title":"Réaliser des tests de charges avec Gatling",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1065,
+               "scheduleId":0,
+               "title":"Réaliser des tests de charges avec Gatling",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1447,
+         "name":"Arnaud Bailly",
+         "bio":"Arnaud Bailly est développeur au sein de l\u0027équipe R\u0026D de PolySpot, après 2 ans passés chez Murex et plusieurs années en tant que consultant indépendant ou en SSII.",
+         "company":"PolySpot",
+         "imageUri":"http://cfp2.devoxx.com/img/thumbnail.gif",
+         "sessionIds":[
+            1143
+         ],
+         "sessions":[
+            {
+               "sessionId":1143,
+               "scheduleId":0,
+               "title":"Extreme Startup",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1452,
+         "name":"Eyal Lezmy",
+         "bio":"- Software Engineer chez GenyMobile, spécialisé dans Android et le développement web http://www.genymobile.com\r\n- Trésorier du Paris Android User Group http://paug.fr\r\n- Créateur du futur podcast Android Devcast le podcast Android pour les professionnels et les développeurs http://android-devcast.com\r\n\r\nExpériences Android :\r\nJe fais de l\u0027Android depuis debut 2009.\r\nLa plupart de mes projets ont était fait dans de la R\u0026D chez des opérateurs.\r\nUn projet intéressant : Pendant 6 mois en 2010 j\u0027ai mené un projet d\u0027adaptation d\u0027Android sur une box TV (finalisation du portage, modification de l\u0027OS, design graphique et développement des applications utiles à une vraie box TV, rédaction de guidelines de développement pour des applis Android sur TV).",
+         "company":"Paris Android User Group \u0026 GenyMobile",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1452/thumbnail.gif",
+         "sessionIds":[
+            1173,
+            1173,
+            1173,
+            1173
+         ],
+         "sessions":[
+            {
+               "sessionId":1173,
+               "scheduleId":0,
+               "title":"BOF du Paris Android User Group, Rencontre avec Romain GUY et Nicolas ROARD de Google",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1173,
+               "scheduleId":0,
+               "title":"BOF du Paris Android User Group, Rencontre avec Romain GUY et Nicolas ROARD de Google",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1173,
+               "scheduleId":0,
+               "title":"BOF du Paris Android User Group, Rencontre avec Romain GUY et Nicolas ROARD de Google",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1173,
+               "scheduleId":0,
+               "title":"BOF du Paris Android User Group, Rencontre avec Romain GUY et Nicolas ROARD de Google",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1461,
+         "name":"Jean-Michel Doudoux",
+         "bio":"Passionné par le développement de logiciels depuis son adolescence et par la veille technologique, Jean-Michel possède une longue expérience, en SSII et personnelle, dans l\u0027écriture d\u0027applications avec différents langages. \r\nUtilisant Java depuis sa version 1.0, il aime partager sa passion notamment en se consacrant, depuis plus d\u0027une douzaine d\u0027années, à la rédaction de deux didacticiels, intitulés Développons en Java, diffusés sous licence GNU FDL. Il est également le co-fondateur du Lorraine JUG et membre de YaJUG.",
+         "company":".",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1461/thumbnail.gif",
+         "sessionIds":[
+            1078,
+            1078
+         ],
+         "sessions":[
+            {
+               "sessionId":1078,
+               "scheduleId":0,
+               "title":"Input/Output : 16 ans après",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1078,
+               "scheduleId":0,
+               "title":"Input/Output : 16 ans après",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1463,
+         "name":"Henri Gomez",
+         "bio":"Henri Gomez travaille dans l’industrie logicielle depuis plus de 20 ans. Il a travaillé pour différentes sociétés développant des logiciels pour la finance, les flux financiers et le trading.\r\n\r\nIl aura été successivement Développeur, Chef de Projet, Architecte Logiciel puis Directeur de production. \r\n\r\nIl a participé à plusieurs projets OpenSource, comme Apache Tomcat ou JPackage et est toujours membre de l’Apache Software Foundation et commiter sur le projet Tomcat.",
+         "company":"None",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1463/thumbnail.gif",
+         "sessionIds":[
+            1314,
+            1314,
+            1314,
+            1314,
+            1314,
+            1314,
+            1314,
+            1314
+         ],
+         "sessions":[
+            {
+               "sessionId":1314,
+               "scheduleId":0,
+               "title":"Les 5 mercenaires du DevOps",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1314,
+               "scheduleId":0,
+               "title":"Les 5 mercenaires du DevOps",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1314,
+               "scheduleId":0,
+               "title":"Les 5 mercenaires du DevOps",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1314,
+               "scheduleId":0,
+               "title":"Les 5 mercenaires du DevOps",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1314,
+               "scheduleId":0,
+               "title":"Les 5 mercenaires du DevOps",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1314,
+               "scheduleId":0,
+               "title":"Les 5 mercenaires du DevOps",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1314,
+               "scheduleId":0,
+               "title":"Les 5 mercenaires du DevOps",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1314,
+               "scheduleId":0,
+               "title":"Les 5 mercenaires du DevOps",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1470,
+         "name":"Yannick Grenzinger",
+         "bio":"Après un DEA autour des interfaces homme-machine, je suis devenu développeur java. Depuis, je développe mes compétences dans différents projets au sein de différentes organisations. La lecture, il y a deux ans, du \"Design of Everyday Things\" de Donald Norman m\u0027a fait redécouvrir le Design et toucher du doigt son intérêt pour le développement logiciel.\r\nJe synthétise mes lectures d\u0027articles et de livres sur mon blog http://ux-fr.com/ en tentant de faire partage ma passion pour le sujet.\r\nJ\u0027anime des formations autour de l\u0027Expérience Utilisateur (UX) pour ma société, Objet Direct, et des speeches dans des événements communautaires (récemment au Software Craftsmanship User\u0027s Group).",
+         "company":"Objet Direct",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1470/thumbnail.gif",
+         "sessionIds":[
+            1222
+         ],
+         "sessions":[
+            {
+               "sessionId":1222,
+               "scheduleId":0,
+               "title":"Faire du code centré sur l’humain.",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1472,
+         "name":"Gildas Cuisinier",
+         "bio":"Gildas Cuisinier, consultant  au Luxembourg, est connu pour son activité pour la communauté Spring francophone. Il est à l\u0027origine de la section Spring de Developpez.com laquelle comprend forum, blog, cours, articles techniques, interview et FAQ.\r\nIl a également participé à la relecture de plusieurs ouvrages sur Spring (Spring par la pratique et Spring Dynamic Modules in Action) et s\u0027est engagé dans l\u0027évangélisation de Spring 3.0 par le biais de conférences dans plusieurs JUG en France et au Luxembourg. Il a également apporté la base du support de XMPP/Jabber de Spring WebServices.\r\n\r\nEn dehors du monde Spring, il a également collaborer avec Henri Gomez pour fournir un packaging d\u0027OpenJDK pour Mac OS X.",
+         "company":"Sfeir Benelux",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1472/thumbnail.gif",
+         "sessionIds":[
+            1045
+         ],
+         "sessions":[
+            {
+               "sessionId":1045,
+               "scheduleId":0,
+               "title":"Spring est mort, longue vie à Spring !",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1477,
+         "name":"Renaud Bruyeron",
+         "bio":"Renaud Bruyeron est CTO d\u0027Ekino, une société spécialisée dans la conception, la réalisation et l\u0027hébergement de dispositifs web et mobile pour ses clients. Il a débuté sur le Web en écrivant des CGIs en Perl, avant de passer au PHP, puis de tomber dans Java. Ses intérêts actuels tournent autour de l\u0027industrialisation des développements et de l\u0027exploitation.\r\nDiplômé de Centrale Paris, UCLA et de l\u0027INSEAD, Renaud a débuté sa carrière au W3C à MIT à la fin du siècle dernier.",
+         "company":"Ekino",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1477/thumbnail.gif",
+         "sessionIds":[
+            1216,
+            1216,
+            1216,
+            1216,
+            1216
+         ],
+         "sessions":[
+            {
+               "sessionId":1216,
+               "scheduleId":0,
+               "title":"OOM m\u0027a tuer : paramétrage de la Heap et du Garbage Collector sous forte charge",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1216,
+               "scheduleId":0,
+               "title":"OOM m\u0027a tuer : paramétrage de la Heap et du Garbage Collector sous forte charge",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1216,
+               "scheduleId":0,
+               "title":"OOM m\u0027a tuer : paramétrage de la Heap et du Garbage Collector sous forte charge",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1216,
+               "scheduleId":0,
+               "title":"OOM m\u0027a tuer : paramétrage de la Heap et du Garbage Collector sous forte charge",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1216,
+               "scheduleId":0,
+               "title":"OOM m\u0027a tuer : paramétrage de la Heap et du Garbage Collector sous forte charge",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1479,
+         "name":"Remi Forax",
+         "bio":"Rémi Forax\r\nMaitre de conférence à l\u0027université Paris Est - Marne la Vallée,\r\nExpert pour les JSRs 292 et 335.\r\nTombé dans le Java quand il était petit.",
+         "company":"Paris Est-Marne la Vallée",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1479/thumbnail.gif",
+         "sessionIds":[
+            1050,
+            1050
+         ],
+         "sessions":[
+            {
+               "sessionId":1050,
+               "scheduleId":0,
+               "title":"Invokedynamic them all",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1050,
+               "scheduleId":0,
+               "title":"Invokedynamic them all",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1483,
+         "name":"Olivier Chafik",
+         "bio":"Tombé dans le Java étant petit, Olivier Chafik n\u0027a commencé à l\u0027utiliser en dehors de ses projets personnels que tout récemment, préférant accumuler de l\u0027expérience professionnelle en C++. \r\nCette schizophrénie technologique a tout naturellement eu des conséquences malencontreuses, telles que les projets Open-Source JNAerator, BridJ, JavaCL et ScalaCL...\r\n\r\nhttp://ochafik.com/blog/?page_id\u003d342",
+         "company":"n/a",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1483/thumbnail.gif",
+         "sessionIds":[
+            1337,
+            1337
+         ],
+         "sessions":[
+            {
+               "sessionId":1337,
+               "scheduleId":0,
+               "title":"GPGPU facile avec JavaCL, et trivial avec ScalaCL !",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1337,
+               "scheduleId":0,
+               "title":"GPGPU facile avec JavaCL, et trivial avec ScalaCL !",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1492,
+         "name":"Grégory Weinbach",
+         "bio":"Grégory développe du logiciel depuis plus de vingt ans. Tantôt du côté de l\u0027outillage (avec des incursions remarquées du côté de la génération de code), tantôt du côté de l\u0027utilisateur (il pratique la modélisation agile et le Domain Driven Design), ou du développeur (coder reste un de ses plaisirs), il cultive la polyvalence de son expertise.\r\nIl aime prendre du recul par rapport aux pratiques à la mode, qu\u0027elles se nomment agilité, MDA, SOA, ou Software Craftsmanship.\r\nSa question favorite est \"pourquoi ?\", juste avant de chercher \"comment ?\". \r\nSpeaker pour des publics variés (du Paris JUG aux cinq éditions du MDDay), Grégory anime régulièrement des séminaires pour ses clients et des formations pour sa société, Objet Direct.",
+         "company":"Objet Direct",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1492/thumbnail.gif",
+         "sessionIds":[
+            1249,
+            1249
+         ],
+         "sessions":[
+            {
+               "sessionId":1249,
+               "scheduleId":0,
+               "title":"Il n\u0027y a pas de bon Modèle Métier",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1249,
+               "scheduleId":0,
+               "title":"Il n\u0027y a pas de bon Modèle Métier",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1500,
+         "name":"Majirus Fansi",
+         "bio":"Majirus Fansi est Consultant SOA et Java EE au sein de la société Valtech SA. Il intervient dans le cadre de l’étude et de la mise en place des solutions d’intégration SOA, ainsi que dans la mise en œuvre des applications web Java EE.\r\nSpécialiste XML, SOA, de la sécurité Informatique et des technologies Web, Majirus est apte à former et superviser les développeurs afin d’atteindre les objectifs fixés. Comme chercheur,  Majirus a exercé pendant 4 ans au sein du Laboratoire Informatique de l’Université de Pau et des Pays de l’Adour. Ses travaux ont fait l’objet de publications dans les conférences et journaux spécialisés. \r\nComme consultant Il a été responsable de l’architecture, de la formation de l’équipe de développement et de la conduite de la mise en œuvre d’applications et de  bus de services pour ses clients. \r\nIl est titulaire d’un Executive MBA de Stockolm Business School.",
+         "company":"Valtech SA",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1500/",
+         "sessionIds":[
+            1074,
+            1074,
+            1074
+         ],
+         "sessions":[
+            {
+               "sessionId":1074,
+               "scheduleId":0,
+               "title":"Recherche d’information (RI) : Fondements et illustration avec Apache Lucene",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1074,
+               "scheduleId":0,
+               "title":"Recherche d’information (RI) : Fondements et illustration avec Apache Lucene",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1074,
+               "scheduleId":0,
+               "title":"Recherche d’information (RI) : Fondements et illustration avec Apache Lucene",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1512,
+         "name":"Benoit Perroud",
+         "bio":"Benoit Perroud is Software Engineer at Verisign and Apache DirectMemory Committer. He is an Open Source fan and NoSQL enthusiast, dreaming about scalability, distributed systems and memory management.",
+         "company":"VERISIGN",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1512/thumbnail.gif",
+         "sessionIds":[
+            1092,
+            1092
+         ],
+         "sessions":[
+            {
+               "sessionId":1092,
+               "scheduleId":0,
+               "title":"Réduire la pression sur l\u0027allocation mémoire : le prochain pas dans l\u0027optimisation des performances de la JVM",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1092,
+               "scheduleId":0,
+               "title":"Réduire la pression sur l\u0027allocation mémoire : le prochain pas dans l\u0027optimisation des performances de la JVM",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1513,
+         "name":"Sami Jaber",
+         "bio":"Architecte et formateur JEE/.NET, Sami Jaber est le fondateur de la société DNG Consulting, référence dans le monde du développement d\u0027applications Web. Il a plus de 15 ans d\u0027expérience dans le domaine des architectures distribuées transactionnelles et accompagne les entreprises dans leur démarche de migration vers les nouvelles technologies.\r\nAuteur du livre \"Programmation GWT 2\" paru chez Eyrolles, il intervient régulièrement lors de conférences techniques en France et à l\u0027étranger.  L’adresse de son blog est http://www.samijaber.com.",
+         "company":"DNG Consulting",
+         "imageUri":"http://cfp2.devoxx.com/img/thumbnail.gif",
+         "sessionIds":[
+            1087
+         ],
+         "sessions":[
+            {
+               "sessionId":1087,
+               "scheduleId":0,
+               "title":"Google Web Toolkit à l\u0027épreuve du feu",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1514,
+         "name":"Pierre-Yves Ricau",
+         "bio":"Pierre-Yves est le leader technique du projet AndroidAnnotations. Après des expériences en tant que consultant Java/JEE, il tente désormais d\u0027amener des bonnes pratiques au développement Android.\r\n\r\nIl a rejoint la startup Siine Ltd (http://www.siine.com), qui édite un clavier Android révolutionnaire.",
+         "company":"Siine Ltd",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1514/thumbnail.gif",
+         "sessionIds":[
+            1088,
+            1088
+         ],
+         "sessions":[
+            {
+               "sessionId":1088,
+               "scheduleId":0,
+               "title":"Simplifiez vos développements Android avec AndroidAnnotations !",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1088,
+               "scheduleId":0,
+               "title":"Simplifiez vos développements Android avec AndroidAnnotations !",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1516,
+         "name":"Charles Fry",
+         "bio":"Charles Fry is a software engineer at Google, where he works full-time on the Java core libraries, externally distributed as Guava. He led the architecture of Guava\u0027s new common.cache package, subsequent to taking ownership of MapMaker in 2010.",
+         "company":"Google",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1516/thumbnail.gif",
+         "sessionIds":[
+            1102,
+            1102
+         ],
+         "sessions":[
+            {
+               "sessionId":1102,
+               "scheduleId":0,
+               "title":"Java Caching with Guava",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1102,
+               "scheduleId":0,
+               "title":"Java Caching with Guava",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1528,
+         "name":"Jérémie Chassaing",
+         "bio":"Jérémie Chassaing est l\u0027auteur de thinkbeforecoding.com un blog dédié au Domain Driven Design, CQRS et Event Sourcing. Fondateur en 1999 d\u0027Hypnotizer, une société proposant une solution intégrale de vidéo interactive et en 2004 de BBCG, editeur de PixVillage, un logiciel de partage de photos en P2P, il a rejoint Siriona en 2007 en tant qu\u0027architect avec ses précédents associés pour travailler sur Availpro, une application de chanel management pour les hôtels indépendants, afin d\u0027augmenter sa scalabilité et sa fiabilité suivant sa forte croissance.",
+         "company":"Siriona",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1528/thumbnail.gif",
+         "sessionIds":[
+            1096
+         ],
+         "sessions":[
+            {
+               "sessionId":1096,
+               "scheduleId":0,
+               "title":"CQRS (Command and Queries Responsibility Segregation)",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1530,
+         "name":"Kurt Kluever",
+         "bio":"Kurt Alfred Kluever is a software engineer at Google in New York City with 9 years of Java experience. Prior to working on Google’s Java Core Libraries team, he worked on backend infrastructure that supported a wide array of products such as Google+, YouTube, Docs, Photos, Ads, and Feedburner.",
+         "company":"Google, Inc.",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1530/thumbnail.gif",
+         "sessionIds":[
+            1444,
+            1444
+         ],
+         "sessions":[
+            {
+               "sessionId":1444,
+               "scheduleId":0,
+               "title":"An Overview of Guava: Google Core Libraries for Java",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1444,
+               "scheduleId":0,
+               "title":"An Overview of Guava: Google Core Libraries for Java",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1532,
+         "name":"Cyrille Martraire",
+         "bio":"Après 9 ans à développer avec passion des logiciels dans plusieurs startups et banques, Cyrille est co-fondateur et directeur technique d\u0027Arolla, une société spécialisée en développement logiciel. Toujours accro au développement, il consacre une grande partie de son énergie chez des clients dans la finance de marché, en prenant intégralement en charge des projets en équipe, les mains dans le code et avec une forte implication dans l\u0027analyse métier. \r\n\r\nPassionné de design sous tous ses aspects (Clean Code, TDD, BDD, DDD), il a aussi fondé la communauté Software Craftsmanship Paris.",
+         "company":"Arolla",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1532/thumbnail.gif",
+         "sessionIds":[
+            1365,
+            1365,
+            1365,
+            1365,
+            1365,
+            1365,
+            1366,
+            1366,
+            1366,
+            1366,
+            1366
+         ],
+         "sessions":[
+            {
+               "sessionId":1365,
+               "scheduleId":0,
+               "title":"BOF de la communauté Software Craftsmanship Paris",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1365,
+               "scheduleId":0,
+               "title":"BOF de la communauté Software Craftsmanship Paris",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1365,
+               "scheduleId":0,
+               "title":"BOF de la communauté Software Craftsmanship Paris",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1365,
+               "scheduleId":0,
+               "title":"BOF de la communauté Software Craftsmanship Paris",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1365,
+               "scheduleId":0,
+               "title":"BOF de la communauté Software Craftsmanship Paris",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1365,
+               "scheduleId":0,
+               "title":"BOF de la communauté Software Craftsmanship Paris",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1366,
+               "scheduleId":0,
+               "title":".Net pour le développeur Java : une source d\u0027inspiration ?",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1366,
+               "scheduleId":0,
+               "title":".Net pour le développeur Java : une source d\u0027inspiration ?",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1366,
+               "scheduleId":0,
+               "title":".Net pour le développeur Java : une source d\u0027inspiration ?",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1366,
+               "scheduleId":0,
+               "title":".Net pour le développeur Java : une source d\u0027inspiration ?",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1366,
+               "scheduleId":0,
+               "title":".Net pour le développeur Java : une source d\u0027inspiration ?",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1534,
+         "name":"Didier Girard",
+         "bio":"Directeur des Operations et de L\u0027innovation chez SFEIR, Didier Girard est Docteur en Informatique de l\u0027ENS Lyon. Il aime acquérir des connaissances et les partager. Toujours à la recherche de technologies qui va s\u0027imposer sur le marché dans les années à venir. Il travaille sur des projets mettant en oeuvre le Cloud Computing depuis 2008.",
+         "company":"SFEIR",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1534/thumbnail.gif",
+         "sessionIds":[
+            1432,
+            1432,
+            1432,
+            1432,
+            1432,
+            1432,
+            1432,
+            1432
+         ],
+         "sessions":[
+            {
+               "sessionId":1432,
+               "scheduleId":0,
+               "title":"Le président est...",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1432,
+               "scheduleId":0,
+               "title":"Le président est...",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1432,
+               "scheduleId":0,
+               "title":"Le président est...",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1432,
+               "scheduleId":0,
+               "title":"Le président est...",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1432,
+               "scheduleId":0,
+               "title":"Le président est...",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1432,
+               "scheduleId":0,
+               "title":"Le président est...",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1432,
+               "scheduleId":0,
+               "title":"Le président est...",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1432,
+               "scheduleId":0,
+               "title":"Le président est...",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1540,
+         "name":"Bertrand Paquet",
+         "bio":"Bertrand est architecte senior chez Octo Technology. Il intervient chez ses clients dans des missions d\u0027architecture, d\u0027expertise Java / Ruby, aussi bien coté développement que coté production. A ce titre, il travaille sur des sujets liés à l\u0027infrastructure : conception d\u0027architectures de performances, virtualisation, déploiement multi plateformes, tirs de performances, monitoring et supervision...",
+         "company":"Octo Technology",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1540/thumbnail.gif",
+         "sessionIds":[
+            1160,
+            1160
+         ],
+         "sessions":[
+            {
+               "sessionId":1160,
+               "scheduleId":0,
+               "title":"Continuous deployement : Rackspace, Chef et capistrano en action",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1160,
+               "scheduleId":0,
+               "title":"Continuous deployement : Rackspace, Chef et capistrano en action",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1555,
+         "name":"Alexis Agahi",
+         "bio":"http://fr.linkedin.com/pub/alexis-agahi/0/7b/101\r\n\r\nFull-Stack Developer, Scala enthusiast, Entrepreneur and Rock\u0026Roll.",
+         "company":"PSUG",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1555/thumbnail.gif",
+         "sessionIds":[
+            1177
+         ],
+         "sessions":[
+            {
+               "sessionId":1177,
+               "scheduleId":0,
+               "title":"BOF du Paris Scala User Group",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1567,
+         "name":"Olivier Croisier",
+         "bio":"Olivier Croisier est un expert Java reconnu, notamment grâce à son blog \"The Coder\u0027s Breakfast\". Certifié SCJP avec 100%, consultant senior et formateur chez Zenika, il anime également la formation d\u0027expertise \"Java Specialist\" développée par le Java Champion Heinz Kabutz.",
+         "company":"Zenika",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1567/thumbnail.gif",
+         "sessionIds":[
+            1301
+         ],
+         "sessions":[
+            {
+               "sessionId":1301,
+               "scheduleId":0,
+               "title":"Seren, la sérialisation sous stéroïdes !",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1576,
+         "name":"Nicolas Roard",
+         "bio":"Nicolas Roard est ingénieur logiciel chez Google, travaillant sur le navigateur web d\u0027android et l\u0027implémentation de la webview (accélération matérielle en particulier). Il a une longue pratique du web et mobile web, ayant participé au port de Google Gears sur Windows Mobile et Android, et ayant travaillé chez Witbe sur leur technologie de mesures réseau. Il a également contribué à des projets de logiciel libre tel que GNUstep et Étoilé. Il est diplomé de l\u0027ITII (ESIM), et titulaire d\u0027un doctorat en informatique de l\u0027Université du Pays de Galles.",
+         "company":"Google",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1576/thumbnail.gif",
+         "sessionIds":[
+            1224,
+            1224,
+            1224
+         ],
+         "sessions":[
+            {
+               "sessionId":1224,
+               "scheduleId":0,
+               "title":"Optimiser vos applications HTML pour Android",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1224,
+               "scheduleId":0,
+               "title":"Optimiser vos applications HTML pour Android",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1224,
+               "scheduleId":0,
+               "title":"Optimiser vos applications HTML pour Android",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1577,
+         "name":"Jérôme Bernard",
+         "bio":"Jérôme Bernard a plus de 10 d\u0027expérience de développement en Java que ce soit pour des clients type Banques/Assurances, mais aussi sur des projets OpenSource (Rio, Elastic Grid, Tapestry, MX4J, XDoclet, etc.).\r\n\r\nDepuis 4 ans, il est directeur technique chez StepInfo et a principalement en charge la veille technologique et l\u0027organisation des formations.",
+         "company":"StepInfo",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1577/thumbnail.gif",
+         "sessionIds":[
+            1157
+         ],
+         "sessions":[
+            {
+               "sessionId":1157,
+               "scheduleId":0,
+               "title":"DevOps : pas que pour gérer des serveurs",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1579,
+         "name":"Christophe Jolif",
+         "bio":"Christophe is a Senior Software Engineer at IBM. He is a Dojo Toolkit committer with a special focus on advanced visualization components and his leading IBM WebSphere team contributions to the toolkit including work on Dojo Mobile components. Before joining IBM, Christophe worked for ILOG for more than a decade developing visualization components for the Web and representing ILOG on Web standardization groups, including the W3C SVG Working Group.",
+         "company":"IBM",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1579/thumbnail.gif",
+         "sessionIds":[
+            1161,
+            1161,
+            1161,
+            1161
+         ],
+         "sessions":[
+            {
+               "sessionId":1161,
+               "scheduleId":0,
+               "title":"Le Web mobile avec Dojo",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1161,
+               "scheduleId":0,
+               "title":"Le Web mobile avec Dojo",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1161,
+               "scheduleId":0,
+               "title":"Le Web mobile avec Dojo",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1161,
+               "scheduleId":0,
+               "title":"Le Web mobile avec Dojo",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1582,
+         "name":"Camille Roux",
+         "bio":"Je suis co-fondateur de Human Coders (http://humancoders.com), société qui a pour but de développer des services pour aider les communautés de développeurs. Nous avons commencé par la communauté Ruby avec le service Rubylive.fr, site de partage d\u0027actualités. J\u0027ai été CTO/développeur pour plusieurs startups web telle que KissKissBankBank, la dernière en date, référence du crowdfunding en France.\r\nTrès actif dans la communauté Ruby, j\u0027ai contribué, par exemple, à la création de plusieurs apéro Ruby en France.\r\nJ\u0027ai également participé à de nombreux Startup Weekend, d\u0027abord en tant que participant puis en tant que mentor. Ceci m\u0027a permis de compléter mon profil technique avec des compétences business très orientées lean startup.",
+         "company":"Human Coders",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1582/thumbnail.gif",
+         "sessionIds":[
+            1163,
+            1163,
+            1163
+         ],
+         "sessions":[
+            {
+               "sessionId":1163,
+               "scheduleId":0,
+               "title":"Comment tester son idée et concevoir un prototype web en un minimum de temps ?",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1163,
+               "scheduleId":0,
+               "title":"Comment tester son idée et concevoir un prototype web en un minimum de temps ?",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1163,
+               "scheduleId":0,
+               "title":"Comment tester son idée et concevoir un prototype web en un minimum de temps ?",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1587,
+         "name":"Ulrich Vachon",
+         "bio":"Passionné par le développement logiciel et les architectures innovantes. Mon expérience chez différents éditeurs m’a permis de travailler sur des logiciels aussi différents que pointus. Avec une solide expérience de Scrum Master, je privilégie naturellement l’échange et les pratiques agiles de développements.",
+         "company":"RESERVOIR CODE",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1587/thumbnail.gif",
+         "sessionIds":[
+            1171,
+            1171,
+            1171,
+            1172
+         ],
+         "sessions":[
+            {
+               "sessionId":1171,
+               "scheduleId":0,
+               "title":"Pratiquer DDD en un éclair",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1171,
+               "scheduleId":0,
+               "title":"Pratiquer DDD en un éclair",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1171,
+               "scheduleId":0,
+               "title":"Pratiquer DDD en un éclair",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1172,
+               "scheduleId":0,
+               "title":"C’est si simple GIT !",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1599,
+         "name":"Jerome Louvel",
+         "bio":"Jérôme is an engineer in computer science and management, graduate of Polytech\u0027Montpellier. After six years of experience, including three in IT consulting and three in software edition, he starts the open source Restlet Framework project in 2005.\r\n\r\nIn 2008, he becomes co-founder of Restlet SAS (initially Noelios Technologies) taking in charge the technical and commercial leadership of the company. Jérôme is also a member of the expert group that defined the JAX-RS API, contributor to the RESTful Web Services book published by O\u0027Reilly and co-author of the Restlet in Action book published by Manning in 2012.",
+         "company":"Restlet SAS",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1599/thumbnail.gif",
+         "sessionIds":[
+            1193
+         ],
+         "sessions":[
+            {
+               "sessionId":1193,
+               "scheduleId":0,
+               "title":"De l\u0027open source à l\u0027open API avec Restlet",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1610,
+         "name":"Jean-Louis Rousselin",
+         "bio":"Développeur Swing à ses débuts\r\nConsultant/Formateur Android chez OXiane depuis 2009",
+         "company":"OXiane",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1610/thumbnail.gif",
+         "sessionIds":[
+            1359,
+            1359,
+            1359
+         ],
+         "sessions":[
+            {
+               "sessionId":1359,
+               "scheduleId":0,
+               "title":"Visualiser un document Office dans une appli Android",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1359,
+               "scheduleId":0,
+               "title":"Visualiser un document Office dans une appli Android",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1359,
+               "scheduleId":0,
+               "title":"Visualiser un document Office dans une appli Android",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1611,
+         "name":"Dimitri Baeli",
+         "bio":"Dimitri BAELI (Datox, Almonde, PrimaSolution, eXo Platform, Courtanet) baigne dans l\u0027univers Java depuis plus de 10 ans, sa passion pour les usines logicielles, l\u0027organisation des développements, et les méthodes agiles ne l\u0027empêche pas de mettre les mains dans le cambouis et développer des outils utiles aux développeurs.",
+         "company":"Courtanet",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1611/thumbnail.gif",
+         "sessionIds":[
+            1334,
+            1334
+         ],
+         "sessions":[
+            {
+               "sessionId":1334,
+               "scheduleId":0,
+               "title":"DevOps illustré : la jungle de la configuration d\u0027une application",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1334,
+               "scheduleId":0,
+               "title":"DevOps illustré : la jungle de la configuration d\u0027une application",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1614,
+         "name":"Florent Biville",
+         "bio":"Diplômé INSA de Rouen en 2009, Florent Biville est un développeur originairement Web qui a très vite pris goût au développement Java en général et son écosystème riche. C\u0027est en forgeant ses premières expériences qu\u0027il s\u0027est intéressé indirectement aux problématiques liées au e-commerce (anti-fraude...). \r\n\r\nFréquentant de nombreux événements de la communauté logicielle parisienne, il est depuis salarié de Lateral Thoughts (http://www.lateral-thoughts.com/), finaliste presque heureux de CodeStory et contribue modestement à échanger autour de divers sujets techniques.",
+         "company":"Lateral Thoughts SAS",
+         "imageUri":"http://cfp2.devoxx.com/img/thumbnail.gif",
+         "sessionIds":[
+            1409,
+            1409
+         ],
+         "sessions":[
+            {
+               "sessionId":1409,
+               "scheduleId":0,
+               "title":"(R)évolutionnez vos bases de données avec Liquibase !",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1409,
+               "scheduleId":0,
+               "title":"(R)évolutionnez vos bases de données avec Liquibase !",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1615,
+         "name":"François Ostyn",
+         "bio":"François OSTYN est architecte logiciel et responsable du Pôle expert Java chez So@t.\r\nCe qu\u0027il préfère avant tout ce sont les challenges qu\u0027il relève depuis plus de 11 ans dans le monde Java.\r\nIl a un appétit particulier pour les problèmes de performances des applications JAVA/JEE et aime les choses bien faites.\r\nSa devise préférée est la suivante : \"La simplicité est la sophistication ultime\".",
+         "company":"So@t",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1615/thumbnail.gif",
+         "sessionIds":[
+            1329,
+            1329,
+            1329
+         ],
+         "sessions":[
+            {
+               "sessionId":1329,
+               "scheduleId":0,
+               "title":"Pimp My Legacy",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1329,
+               "scheduleId":0,
+               "title":"Pimp My Legacy",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1329,
+               "scheduleId":0,
+               "title":"Pimp My Legacy",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1621,
+         "name":"emmanuel feller",
+         "bio":"Je fais un parcours en SSII pendant 8ans (Capgemini, Thales Services, ...), pendant lequel je travaille sur les problématique d\u0027industrialisation, de qualité, de framework et d\u0027outils de génération/d\u0027introspection de code.\r\n\r\nJe rentre au service d\u0027un grand assureur mutualiste niortais en 2008 pour prendre en charge la cohérence et le gestion du développement des différents frameworks et outils maison dans une logique de rationnalisation, ainsi que la relation avec les équipes de développement métier (assistance, relevé de besoin, support).\r\n\r\nDepuis 2011, j\u0027interviens sur le SI de gestion de sinistre (Back Office) sur lequel j\u0027assure la cohérence des différents changements et évolutions (Concepteur SI).",
+         "company":"na",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1621/thumbnail.gif",
+         "sessionIds":[
+            1226,
+            1226,
+            1226
+         ],
+         "sessions":[
+            {
+               "sessionId":1226,
+               "scheduleId":0,
+               "title":"Musée des horreurs du FBI (Fausse Bonne Idée)",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1226,
+               "scheduleId":0,
+               "title":"Musée des horreurs du FBI (Fausse Bonne Idée)",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1226,
+               "scheduleId":0,
+               "title":"Musée des horreurs du FBI (Fausse Bonne Idée)",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1624,
+         "name":"willy tarreau",
+         "bio":"Auteur et mainteneur du répartiteur de charge haproxy depuis 10 ans, architecte système du répartiteur de charge aloha d\u0027exceliance, mainteneur des \"vieilles\" branches stables du noyau linux, consultant en infrastructures réseau à haute disponibilité au contact quotidien des clients.",
+         "company":"exceliance",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1624/thumbnail.gif",
+         "sessionIds":[
+            1241
+         ],
+         "sessions":[
+            {
+               "sessionId":1241,
+               "scheduleId":0,
+               "title":"Pourquoi et comment les entreprises contribuent aux logiciels libres",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1630,
+         "name":"Pablo Lopez",
+         "bio":"Fort de 10 ans d’expérience au cours desquels je me suis forgé une solide expérience d’architecte logiciel, je dispose d’une très large compétence sur l’ensemble de l’écosystème JEE, et notamment les solutions du monde open-source. Opérationnel par goût, j\u0027interviens sur une large variété de missions, de l\u0027analyse de performances en production au conseil en architecture logicielle.\r\nDepuis deux ans, pour le compte de Xebia, je suis responsable des performances globales du site présenté dans cette session.",
+         "company":"Xebia",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1630/thumbnail.gif",
+         "sessionIds":[
+            1335,
+            1335,
+            1335,
+            1335,
+            1335
+         ],
+         "sessions":[
+            {
+               "sessionId":1335,
+               "scheduleId":0,
+               "title":"BigData et Hadoop au secours de téraoctets de logs inexploitables chez l\u0027un des plus grands sites marchands du web européen",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1335,
+               "scheduleId":0,
+               "title":"BigData et Hadoop au secours de téraoctets de logs inexploitables chez l\u0027un des plus grands sites marchands du web européen",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1335,
+               "scheduleId":0,
+               "title":"BigData et Hadoop au secours de téraoctets de logs inexploitables chez l\u0027un des plus grands sites marchands du web européen",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1335,
+               "scheduleId":0,
+               "title":"BigData et Hadoop au secours de téraoctets de logs inexploitables chez l\u0027un des plus grands sites marchands du web européen",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1335,
+               "scheduleId":0,
+               "title":"BigData et Hadoop au secours de téraoctets de logs inexploitables chez l\u0027un des plus grands sites marchands du web européen",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1631,
+         "name":"Mathieu Poumeyrol",
+         "bio":"After graduating from Ecole Centrale Paris and Institut Supérieur d\u0027Informatique et d\u0027Automatique, I spent 8 years working at IDM, mostly contracting for British dictionary publishers, and designing ad-hoc data stores. At Fotonauts/Fotopedia since 2009, I focused on infrastructure, database and performance issues.",
+         "company":"fotopedia",
+         "imageUri":"http://cfp2.devoxx.com/img/thumbnail.gif",
+         "sessionIds":[
+            1246,
+            1246,
+            1246,
+            1246
+         ],
+         "sessions":[
+            {
+               "sessionId":1246,
+               "scheduleId":0,
+               "title":"MongoDB et Mustache. Vers la mort du cache ?",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1246,
+               "scheduleId":0,
+               "title":"MongoDB et Mustache. Vers la mort du cache ?",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1246,
+               "scheduleId":0,
+               "title":"MongoDB et Mustache. Vers la mort du cache ?",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1246,
+               "scheduleId":0,
+               "title":"MongoDB et Mustache. Vers la mort du cache ?",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1640,
+         "name":"Guillaume Bort",
+         "bio":"Guillaume Bort est co-fondateur de Zenexity, cabinet spécialisé dans les architectures orientées Web. Ancien expert J2EE il a travaillé plusieurs années à mettre au point des frameworks Web pour de grand comptes, avant de profiter de son expérience pour créer Play framework en se focalisant sur les aspects de productivité et de simplicité pour les développeurs. Il est toujours \"Lead Developer\" du projet Play.",
+         "company":"Zenexity",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1640/thumbnail.gif",
+         "sessionIds":[
+            1254,
+            1254,
+            1254,
+            1254
+         ],
+         "sessions":[
+            {
+               "sessionId":1254,
+               "scheduleId":0,
+               "title":"Play 2.0, un framework pour une nouvelle génération d\u0027application Web",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1254,
+               "scheduleId":0,
+               "title":"Play 2.0, un framework pour une nouvelle génération d\u0027application Web",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1254,
+               "scheduleId":0,
+               "title":"Play 2.0, un framework pour une nouvelle génération d\u0027application Web",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1254,
+               "scheduleId":0,
+               "title":"Play 2.0, un framework pour une nouvelle génération d\u0027application Web",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1652,
+         "name":"Aline Paponaud",
+         "bio":"Développeuse et scrum-master chez Sfeir, j\u0027aime aller au coding dojo, faire des tests, des revues de code, j\u0027aime la qualité et le travail bien fait. Je suis aussi intéressée par l\u0027agilité et les dynamiques d\u0027équipe. Aujourd\u0027hui je me fixe l\u0027objectif de transmettre des techniques et des valeurs.",
+         "company":"SFEIR",
+         "imageUri":"http://cfp2.devoxx.com/img/thumbnail.gif",
+         "sessionIds":[
+            1275
+         ],
+         "sessions":[
+            {
+               "sessionId":1275,
+               "scheduleId":0,
+               "title":"Programatoo: Atelier de programmation pour les jeunes de 9 à 14 ans",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1654,
+         "name":"Audrey Neveu",
+         "bio":"Jug Leader JDuchess et développeur Java chez Sfeir, ce que j\u0027aime le plus dans ce langage c\u0027est l\u0027incroyable énergie de la communauté qui gravite autour. Ayant découvert les JUGs en même temps que ma vocation de développeur, j\u0027ai souhaité rendre à la communauté un peu de la richesse qu\u0027elle m\u0027avait apporté en contribuant à mon tour à sa vie en rejoignant Duchess France.",
+         "company":"Sfeir",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1654/thumbnail.gif",
+         "sessionIds":[
+            1384
+         ],
+         "sessions":[
+            {
+               "sessionId":1384,
+               "scheduleId":0,
+               "title":"BOF Duchess France",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1669,
+         "name":"Alexandre Vasseur",
+         "bio":"Alexandre VASSEUR est Staff Systems Engineer chez VMware dans la division vFabric Cloud Application Platform et a en charge la région europe du sud.\r\n\r\nIl aide les clients et prospects à comprendre et adopter la stratégie de VMware sur la modernisation des middleware et architectures applicatives sur les volets développement, déploiement, éxécution et scalabilité dans une démarche Cloud avec Java, Spring, et les briques vFabric comme Tomcat tc Server et CloudFoundry.",
+         "company":"VMware",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1669/thumbnail.gif",
+         "sessionIds":[
+            1312,
+            1317
+         ],
+         "sessions":[
+            {
+               "sessionId":1312,
+               "scheduleId":0,
+               "title":"Faire (bien) tourner Java en environnement virtuel et cloud.",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1317,
+               "scheduleId":0,
+               "title":"NoSQL avec SQL: et pourquoi pas ?",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1670,
+         "name":"Frédéric Dubois",
+         "bio":"J\u0027ai aujourd\u0027hui 10 ans d\u0027expérience en architecture, conception et développement d\u0027applications JEE avec une sensibilité particulière pour la qualité logicielle et l\u0027agilité. Plus qu\u0027un attachement aux processus, ou aux connaissances, c\u0027est par le pragmatique, le perfectionnement continu, l\u0027échange et le partage que je contribue, chaque jour, a l\u0027élaboration de solutions pérennes pour mes clients.\r\nConsultant manager pour Xebia, je m\u0027efforce de transmettre cet attachement à la qualité du développement logiciel.",
+         "company":"Xebia",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1670/thumbnail.gif",
+         "sessionIds":[
+            1330,
+            1330,
+            1330,
+            1330
+         ],
+         "sessions":[
+            {
+               "sessionId":1330,
+               "scheduleId":0,
+               "title":"Pour un développement durable",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1330,
+               "scheduleId":0,
+               "title":"Pour un développement durable",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1330,
+               "scheduleId":0,
+               "title":"Pour un développement durable",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1330,
+               "scheduleId":0,
+               "title":"Pour un développement durable",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1672,
+         "name":"Emmanuel Lecharny",
+         "bio":"Emmanuel Lécharny est un membre de l\u0027Apache Software Fondation, et participe aux projets Apache Directory Server et Apache MINA. Il est également mentor des projets Deft et Syncope qui sont en incubation.",
+         "company":"iktek",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1672/thumbnail.gif",
+         "sessionIds":[
+            1326,
+            1326,
+            1326,
+            1326,
+            1326
+         ],
+         "sessions":[
+            {
+               "sessionId":1326,
+               "scheduleId":0,
+               "title":"OSS en France : usages et pratiques",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1326,
+               "scheduleId":0,
+               "title":"OSS en France : usages et pratiques",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1326,
+               "scheduleId":0,
+               "title":"OSS en France : usages et pratiques",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1326,
+               "scheduleId":0,
+               "title":"OSS en France : usages et pratiques",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1326,
+               "scheduleId":0,
+               "title":"OSS en France : usages et pratiques",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1675,
+         "name":"Dmitry Jemerov",
+         "bio":"Since joining JetBrains in 2003, Dmitry Jemerov has worn a lot of hats in the company. These days, he leads the development of PyCharm, an IDE for Python and Django, and is a co-lead of IntelliJ IDEA, the company\u0027s flagship Java IDE. He also contributes to the development of Kotlin and has created the initial implementation of the Java bytecode generator for the language.",
+         "company":"JetBrains GmbH",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1675/thumbnail.gif",
+         "sessionIds":[
+            1354
+         ],
+         "sessions":[
+            {
+               "sessionId":1354,
+               "scheduleId":0,
+               "title":"The Kotlin Programming Language",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1680,
+         "name":"Rui Carvalho",
+         "bio":"Spécialiste .Net et Sql Server en général, Asp.Net MVC en particulier. Speaker sur le sujet aux Techdays depuis 3 ans, travaille dans le web depuis près de 15 ans.\r\nDéveloppeur, architecte, blogueur, prof, animateur ds la communauté .Net ALT.NET paris.",
+         "company":"ArtOfNet",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1680/thumbnail.gif",
+         "sessionIds":[
+            1448
+         ],
+         "sessions":[
+            {
+               "sessionId":1448,
+               "scheduleId":0,
+               "title":"Venez découvrir .Net",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1693,
+         "name":"Julien Roche",
+         "bio":"Développeur à Grenoble chez Objet Direct donc passionné par Java et le Web.\r\nLongtemps commiter sur des projets open sources (wiQuery \u003d Wicket + jQuery UI), je navigue depuis deux ans dans l\u0027univers mouvant de la mobilité (de Palm WebOS à PhoneGap !) et j\u0027anime régulièrement séminaires et formations sur le sujet.",
+         "company":"Object Direct",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1693/thumbnail.gif",
+         "sessionIds":[
+            1362,
+            1362,
+            1362
+         ],
+         "sessions":[
+            {
+               "sessionId":1362,
+               "scheduleId":0,
+               "title":"Sexy le développpement web mobile ?",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1362,
+               "scheduleId":0,
+               "title":"Sexy le développpement web mobile ?",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1362,
+               "scheduleId":0,
+               "title":"Sexy le développpement web mobile ?",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1702,
+         "name":"Luc Bizeul",
+         "bio":"Luc à commencé sa carrière comme développeur, il à commencé à pratiquer les méthodes agiles dès 2006, puis à conseillé et formé d’autres équipes sur l\u0027agilité, le Lean, la théorie des contraintes au sein des plus grands cabinets de conseils spécialisé dans l’agilité.\r\n\r\nAu cours de sa propre démarche d’amélioration continue il à en permanence fait analyser et évoluer ses pratiques professionnelles.\r\n\r\nCe qui l’a amené à se former au aux techniques d’organisation personnelles, coaching professionnel, à la facilitation, et au développement organisationnel.\r\n\r\nIl aide maintenant des équipes, des services et des entreprises à atteindre leurs objectifs en tirant le meilleur partie de leurs outils de production et contribue activement à l\u0027animation de différentes communautés (techniques, méthodologiques et sur les métiers du changements) et à la vulgarisation des pratiques Agiles.",
+         "company":"Agoraction",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1702/thumbnail.gif",
+         "sessionIds":[
+            1451,
+            1452,
+            1452
+         ],
+         "sessions":[
+            {
+               "sessionId":1451,
+               "scheduleId":0,
+               "title":"BOF - Agilité",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1452,
+               "scheduleId":0,
+               "title":"BOF - Java",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1452,
+               "scheduleId":0,
+               "title":"BOF - Java",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1703,
+         "name":"Andrew Spencer",
+         "bio":"Je fais du développement en entreprise sur la plate-forme Java depuis 2000, dont 7 années en SSII.\r\n\r\nJe m\u0027intéresse à l\u0027agilité depuis le début des années 2000.  J\u0027ai voulu la pratiquer mais me suis toujours trouvé casé dans des missions qui ne correspondaient pas à mes souhaits. Au bout d\u0027un certain temps, j\u0027ai compris 2 choses : (1) si on veut que quelque chose change, le mieux c\u0027est de s\u0027en charger soi-même, et (2) les intérêts des SSII ne coïncident pas avec ceux de leurs salariés.\r\n\r\nL\u0027idée de la SSII coopérative est une réponse à ces deux constats.",
+         "company":"ISO",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1703/thumbnail.gif",
+         "sessionIds":[
+            1418
+         ],
+         "sessions":[
+            {
+               "sessionId":1418,
+               "scheduleId":0,
+               "title":"L\u0027heure de la SSII coopérative a sonné",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1711,
+         "name":"Petra Cross",
+         "bio":"English Bio:\r\nhttp://gmailblog.blogspot.com/2011/04/faces-of-gmail-petra-cross.html\r\n\r\nFrench Bio:\r\nhttp://googlefrance.blogspot.com/2011/07/les-visages-de-gmail-petra-cross.html\r\n\r\n\r\nGoogle experience:\r\n2005-2008 Google Search Team (Mountain View, California)\r\n2008-2012 Gmail Frontend Engineering (Mountain View, California)\r\n2012-present Google Mobile Wallet Engineering (San Francisco, California)\r\n\r\nI\u0027m a very lively speaker and engage the audience quite a bit. I usually get tons of questions at the end of my talks.",
+         "company":"Google Inc",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1711/thumbnail.gif",
+         "sessionIds":[
+            1430,
+            1430,
+            1430
+         ],
+         "sessions":[
+            {
+               "sessionId":1430,
+               "scheduleId":0,
+               "title":"Behind the Scenes of Day-To-Day Software Development at Google",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1430,
+               "scheduleId":0,
+               "title":"Behind the Scenes of Day-To-Day Software Development at Google",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1430,
+               "scheduleId":0,
+               "title":"Behind the Scenes of Day-To-Day Software Development at Google",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1718,
+         "name":"David Krolak",
+         "bio":"Software engineer - Mobile application developer",
+         "company":"ovh",
+         "imageUri":"http://cfp2.devoxx.com/img/thumbnail.gif",
+         "sessionIds":[
+            1457
+         ],
+         "sessions":[
+            {
+               "sessionId":1457,
+               "scheduleId":0,
+               "title":"OVH public cloud avec jclouds",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1720,
+         "name":"Craig Morrison",
+         "bio":"Craig is a senior development manager at Murex, a leading provider of cross-asset trading, risk management and processing solutions for Capital Markets with over 170 clients and 32,000 users worldwide. Craig is responsible for a number of functional modules and the product’s SDK which underpins them. Craig is principally interested in software quality, development practices, and evolving a solid software architecture to deliver working software on time.",
+         "company":"Murex",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1720/thumbnail.gif",
+         "sessionIds":[
+            1459,
+            1459,
+            1459,
+            1459
+         ],
+         "sessions":[
+            {
+               "sessionId":1459,
+               "scheduleId":0,
+               "title":"Java à Murex: un retour d\u0027expérience",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1459,
+               "scheduleId":0,
+               "title":"Java à Murex: un retour d\u0027expérience",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1459,
+               "scheduleId":0,
+               "title":"Java à Murex: un retour d\u0027expérience",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1459,
+               "scheduleId":0,
+               "title":"Java à Murex: un retour d\u0027expérience",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1724,
+         "name":"Aditya Bansod",
+         "bio":"Aditya is Sencha\u0027s senior director of product management and is responsible for the product planning and strategy for Sencha\u0027s product lines. Prior to Sencha, Aditya held various senior product management roles at Adobe and Microsoft, focusing on developers and media in the mobile and consumer electronics space.",
+         "company":"Sencha",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1724/thumbnail.gif",
+         "sessionIds":[
+            1464,
+            1464,
+            1464
+         ],
+         "sessions":[
+            {
+               "sessionId":1464,
+               "scheduleId":0,
+               "title":"Building Mobile HTML5 Apps in Hours Not Days",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1464,
+               "scheduleId":0,
+               "title":"Building Mobile HTML5 Apps in Hours Not Days",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1464,
+               "scheduleId":0,
+               "title":"Building Mobile HTML5 Apps in Hours Not Days",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1725,
+         "name":"Habib Guergachi",
+         "bio":"Habib Guergachi, Centralien, est PDG et co-fondateur du cabinet Zenexity créé en 2003. Expert dans le domaine de l\u0027Urbanisation, il fait partie des architectes français qui ont introduit des concepts forts, comme le « coefficient d’intégrabilité » des applications. Plus de 7 ans à la Direction Centrale des SI d’AXA, plus de 3 ans à Direction de la Stratégie des SI à la Société Générale, 5 ans au comité exécutif et Direction Technique d’une grande SSII, il pilote aujourd’hui des grands projets d’Urbanisation et transformation de SI vers le WEB. Il anime plusieurs séminaires au sein du prestigieux Capgemini Institut.",
+         "company":"Zenexity",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1725/thumbnail.gif",
+         "sessionIds":[
+            1467
+         ],
+         "sessions":[
+            {
+               "sessionId":1467,
+               "scheduleId":0,
+               "title":"Web Oriented Architecture, une transmutation des pratiques de construction des SI",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1726,
+         "name":"Carlos Conde",
+         "bio":"Avec plus de 12 ans d’expérience dans l’IT, Carlos a démarré sa carrière en créant IWorks, entreprise dédiée au développement d’applications web Java sur systèmes hérités. Par la suite il co-fonde Newaxe, une start-up proposant une plateforme de gestion et de monitoring d’ERP, réalisée en Java. Apres plusieurs années en tant que consultant indépendant, Carlos est à présent Solutions Architect pour Amazon Web Services ou il aide ses clients a créer leur infrastructure sur la plateforme cloud.",
+         "company":"Amazon",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1726/thumbnail.gif",
+         "sessionIds":[
+            1468,
+            1468
+         ],
+         "sessions":[
+            {
+               "sessionId":1468,
+               "scheduleId":0,
+               "title":"Java sur Amazon Web Services",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1468,
+               "scheduleId":0,
+               "title":"Java sur Amazon Web Services",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1734,
+         "name":"Pierre Pezziardi",
+         "bio":"Entrepreneur, co-fondateur d’OCTO Technology, co-fondateur de l’Université du SI, fondateur d’Octopus Microfinance, fondateur de NotreBanque, auteur, conférencier, il promeut l’idée d’Informatique Conviviale : des systèmes destinés à décloisonner les organisations, rendre autonomes les individus et soutenir les équipes auto-organisées. \r\n\r\nEn 2005, il fonde l’initiative Octopus, première plate-forme Open Source pour la micro-finance. Octopus est une communauté mondiale de savoir-faire en méthodes lean et agile, destinée à améliorer l’accessibilité des services financiers aux plus pauvres. Il participe à la création du site BabyLoan, premier opérateur de Micro-crédit Peer to Peer en France. En 2010, il déploie les techniques du Lean en tant que DSI de la Bred Banque Populaire. \r\nDepuis 2011, Pierre est responsable de NotreBanque, une entreprise qui vise à fournir des outils financiers communautaires simples, peu coûteux et transparents.",
+         "company":"NotreBanque",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1734/thumbnail.gif",
+         "sessionIds":[
+            1473
+         ],
+         "sessions":[
+            {
+               "sessionId":1473,
+               "scheduleId":0,
+               "title":"Fier d\u0027être développeur ?",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":10,
+         "name":"Dan Hardiker",
+         "bio":"Dan Hardiker is a Chief Technical Officer and founding member of Adaptavist.com Ltd., which specializes in Atlassian-based consultancy, support, hosting, and bespoke development. Dan has many years of Java expertise, as well as almost two decades of experience with UNIX and networking systems - focusing on infrastructure, performance, and security. He speaks regularly on these topics and has a background in event management. He works with enabling geeks to socialize throughout the UK via the GeekUp and BarCamp initiatives.",
+         "company":"Loner",
+         "imageUri":"http://cfp2.devoxx.com/static/images/10/thumbnail.gif",
+         "sessionIds":[
+            1323,
+            1323,
+            1323,
+            1323
+         ],
+         "sessions":[
+            {
+               "sessionId":1323,
+               "scheduleId":0,
+               "title":"Hacking the Kinect",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1323,
+               "scheduleId":0,
+               "title":"Hacking the Kinect",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1323,
+               "scheduleId":0,
+               "title":"Hacking the Kinect",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1323,
+               "scheduleId":0,
+               "title":"Hacking the Kinect",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":117,
+         "name":"Emmanuel Bernard",
+         "bio":"Emmanuel Bernard est architecte plate-forme données à JBoss by Red Hat et un member de l\u0027équipe Hibernate.\r\nDiplômé de Supélec, Emmanuel Bernard a passé quelques années dans le secteur de la grande distribution où il a commencé à s\u0027impliquer dans le monde de l\u0027ORM. Il a rejoint l\u0027équipe Hibernate en 2003.\r\nEmmanuel a dirigé l\u0027implementation JPA d\u0027Hibernate. Il a fondé et dirige Hibernate Search, Hibernate Validator et le petit nouveau Hibernate OGM.\r\nEmmanuel est membre de l\u0027expert group JPA 2.1 et spec lead de Bean Validation. Il intervient régulièrement dans diverses conférences et JUGs, dont JavaOne, JBoss World, Devoxx et est le co-auteur d\u0027Hibernate Search in Action publié par Manning. Il est aussi le fondateur et co-hôte de deux podcasts: Les Cast Codeurs (français, http://lescastcodeurs.com) et JBoss Community Asylum (anglais, http://asylum.jboss.org).\r\nVous pouvez le suivre sur twitter à @emmanuelbernard",
+         "company":"JBoss by Red Hat",
+         "imageUri":"http://cfp2.devoxx.com/static/images/117/thumbnail.gif",
+         "sessionIds":[
+            1005,
+            1005,
+            1005,
+            1005,
+            1006,
+            1006,
+            1006
+         ],
+         "sessions":[
+            {
+               "sessionId":1005,
+               "scheduleId":0,
+               "title":"Les Cast Codeurs Podcast",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1005,
+               "scheduleId":0,
+               "title":"Les Cast Codeurs Podcast",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1005,
+               "scheduleId":0,
+               "title":"Les Cast Codeurs Podcast",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1005,
+               "scheduleId":0,
+               "title":"Les Cast Codeurs Podcast",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1006,
+               "scheduleId":0,
+               "title":"Hibernate OGM: JPA pour NoSQL",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1006,
+               "scheduleId":0,
+               "title":"Hibernate OGM: JPA pour NoSQL",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1006,
+               "scheduleId":0,
+               "title":"Hibernate OGM: JPA pour NoSQL",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":132,
+         "name":"Romain Guy",
+         "bio":"Romain Guy is a software engineer at Google. After spending years having fun with large UIs on the desktop and talking about them at conferences, in blogs, magazines and books, Romain decided to go for the small screen and joined the Android project, an Open Source operating system for mobile phones. He\u0027s now trying to make mobile phone UIs as fun and exciting as desktop ones.",
+         "company":"Google",
+         "imageUri":"http://cfp2.devoxx.com/static/images/132/thumbnail.gif",
+         "sessionIds":[
+            1140,
+            1140,
+            1140,
+            1140
+         ],
+         "sessions":[
+            {
+               "sessionId":1140,
+               "scheduleId":0,
+               "title":"Android, Graphisme et Performance",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1140,
+               "scheduleId":0,
+               "title":"Android, Graphisme et Performance",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1140,
+               "scheduleId":0,
+               "title":"Android, Graphisme et Performance",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1140,
+               "scheduleId":0,
+               "title":"Android, Graphisme et Performance",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":403,
+         "name":"Alex Snaps",
+         "bio":"Alex Snaps est ingénieur chez Terracotta Inc, avec une grande expérience dans le développement d\u0027applications Web et de systèmes hautement concurrents. Avant de travailler sur la plate-forme Terracotta et sa gamme de produits, il a participé à de moyen et grands projets comme coach, ingénieur principal et architecte. Il intervient régulièrement à des événements tels que JavaOne, JavaPolis, Devoxx, JavaZone, Jazoon ou Jours XP ainsi que JUGs autour du globe sur ​​le développement Java et l\u0027ingénierie de système complexe. Il travaille actuellement sur Ehcache, le Quartz Scheduler et le Terracotta Toolkit. Il fait partie du groupe de travaille sur JSR107 chez Terracotta.",
+         "company":"Terracotta (a Software AG company)",
+         "imageUri":"http://cfp2.devoxx.com/static/images/403/thumbnail.gif",
+         "sessionIds":[
+            1104,
+            1104,
+            1105,
+            1105,
+            1105
+         ],
+         "sessions":[
+            {
+               "sessionId":1104,
+               "scheduleId":0,
+               "title":"Programmation concurrente en Java dans la pratique",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1104,
+               "scheduleId":0,
+               "title":"Programmation concurrente en Java dans la pratique",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1105,
+               "scheduleId":0,
+               "title":"sizeOf en Java — parce que la taille…  ça compte!",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1105,
+               "scheduleId":0,
+               "title":"sizeOf en Java — parce que la taille…  ça compte!",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1105,
+               "scheduleId":0,
+               "title":"sizeOf en Java — parce que la taille…  ça compte!",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1285,
+         "name":"Claude Falguière",
+         "bio":"Claude Falguière est consultante sénior chez Valtech Technology où elle intervient sur des missions d\u0027architecture technique et d\u0027analyse de performance d\u0027applications Java/JEE. \r\nElle est co-fondatrice de Duchess France http://jduchess.org/duchess-france/ et membre de l\u0027équipe du Paris JUG http://parisjug.org. \r\nVous pouvez la retrouver sur son blog http://cfalguiere.wordpress.com/ et sur twitter @cfalguiere.",
+         "company":"Valtech Technology Consulting",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1285/thumbnail.gif",
+         "sessionIds":[
+            1364
+         ],
+         "sessions":[
+            {
+               "sessionId":1364,
+               "scheduleId":0,
+               "title":"Incanter, des statistiques en un coup de baguette magique",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1415,
+         "name":"Romain MATON",
+         "bio":"Après plusieurs années passées chez Improve Technologies et Xebia, Romain Maton est aujourd\u0027hui consultant indépendant. Mission après mission, il s’est forgé une solide expérience en développement Web et logiciel. Il dispose ainsi d\u0027une très large compétence sur l\u0027ensemble de l\u0027écosystème JEE, que ce soit sur les bonnes pratiques d\u0027architecture, sur les frameworks de développement ou sur les interfaces client riches.\r\n\r\nInconditionnel du pair programming, c\u0027est un fervent disciple des méthodes Agiles. Romain est intervenu dans différents JUG de France (Paris, Rennes, Tours, Nancy, Bordeaux…) et conférences (JUG Summer Camp, Soft-Shake, RivieraDev…) sur des sujets tels que Scala, Node ou bien encore l\u0027optimisation de sites Web mobiles.\r\n\r\nIl est aussi le créateur de web-tambouille.fr  dans lequel il traite de sujets tels que Java, Node, HTML5, Javascript, Programmation Fonctionnelle, Android et bien d\u0027autres !",
+         "company":"TamLab",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1415/thumbnail.gif",
+         "sessionIds":[
+            1003,
+            1003,
+            1003,
+            1003,
+            1003
+         ],
+         "sessions":[
+            {
+               "sessionId":1003,
+               "scheduleId":0,
+               "title":"Optimiser votre site Web sur mobile",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1003,
+               "scheduleId":0,
+               "title":"Optimiser votre site Web sur mobile",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1003,
+               "scheduleId":0,
+               "title":"Optimiser votre site Web sur mobile",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1003,
+               "scheduleId":0,
+               "title":"Optimiser votre site Web sur mobile",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1003,
+               "scheduleId":0,
+               "title":"Optimiser votre site Web sur mobile",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1420,
+         "name":"José Paumard",
+         "bio":"José est maître de conférences à l\u0027institut Galilée (université Paris 13) et docteur en mathématiques appliquées de l\u0027ENS de Cachan. Il découvre Java en 1995, et enseigne le langage et ses API depuis 2000 en DESS (devenu M2 depuis). Il y a 10 ans, José rencontre Pierre Briant (http://www.college-de-france.fr/site/pierre-briant/) et se passionne depuis pour les bases de données historiques et archéologiques. Il codirige dans ce cadre le projet MAVI (http://www.museum-achemenet.college-de-france.fr/) en collaboration avec le collège de France, et publie en open source Open melodie (http://www.openmelodie.org/) plateforme Java qui joue le rôle de back-office du MAVI. Il tient le blog Java le soir (http://blog.paumard.org/), qui propose plus de 650 pages de cours Java / JEE en accès libre. Enfin, José apporte régulièrement son concours à de nombreux projets techniques dans des domaines très divers.",
+         "company":"Devoxx France",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1420/thumbnail.gif",
+         "sessionIds":[
+            1134,
+            1134,
+            1134,
+            1134,
+            1134,
+            1134
+         ],
+         "sessions":[
+            {
+               "sessionId":1134,
+               "scheduleId":0,
+               "title":"De Runnable et synchronized à parallel() et atomically()",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1134,
+               "scheduleId":0,
+               "title":"De Runnable et synchronized à parallel() et atomically()",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1134,
+               "scheduleId":0,
+               "title":"De Runnable et synchronized à parallel() et atomically()",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1134,
+               "scheduleId":0,
+               "title":"De Runnable et synchronized à parallel() et atomically()",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1134,
+               "scheduleId":0,
+               "title":"De Runnable et synchronized à parallel() et atomically()",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1134,
+               "scheduleId":0,
+               "title":"De Runnable et synchronized à parallel() et atomically()",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1478,
+         "name":"Julien Viet",
+         "bio":"Julien Viet est chef de dévelopement produit portail chez eXo Platform basé sur le projet open source GateIn, colonne vertebrale\r\nde la solution intranet fournie par eXo Platform. Il s\u0027implique fortement dans l\u0027architecture et le développement du produit.\r\n\r\nAvant cela, Julien était ingénieur chez JBoss où il a crée le projet open source JBoss Portal en 2004. En quatres années, Julien\r\na crée un serveur de portail avec son équipe.\r\n\r\nJulien a commencé dans l\u0027open source au début des années 2000, principalement sur le serveur d\u0027application JBoss 3, et a rejoint\r\n l\u0027entreprise JBoss Group en 2002.\r\n\r\nJulien est passionné par l\u0027open source en général et contribue régulièrement à plusieurs projets open source. Il a été actif dans plusieurs\r\nstandards tels que la spécification Portlet 2.0 (JSR-286), la spécification Java Content Repository (JSR-283) et la spécification JSF Portlet\r\nBridge (JSR-301). Julien a obtenu son diplôme d\u0027ingénieur en télécommunication à l\u0027Institut National des Télécommunications en 2001.",
+         "company":"eXo Platform",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1478/thumbnail.gif",
+         "sessionIds":[
+            1053,
+            1053,
+            1053
+         ],
+         "sessions":[
+            {
+               "sessionId":1053,
+               "scheduleId":0,
+               "title":"CRaSH un shell pour étendre la plateforme Java",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1053,
+               "scheduleId":0,
+               "title":"CRaSH un shell pour étendre la plateforme Java",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1053,
+               "scheduleId":0,
+               "title":"CRaSH un shell pour étendre la plateforme Java",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1501,
+         "name":"Guillaume Tardif",
+         "bio":"Guillaume has been working in software development projects since 1998, mainly in the java/JEE world. His typical roles in project teams include technical architect, technical team lead/coach, senior agile developer. He has also been teaching technical courses and did presentations at the Agile conference 2009 (Chicago) and XP Days 2009 (Paris)",
+         "company":"Guillaume Tardif",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1501/thumbnail.gif",
+         "sessionIds":[
+            1265
+         ],
+         "sessions":[
+            {
+               "sessionId":1265,
+               "scheduleId":0,
+               "title":"JDK 8 demo: lambdas in Action",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1505,
+         "name":"Tugdual Grall",
+         "bio":"Tugdual Grall possède plus de 18 années d\u0027expériences dans le middleware, le Java et les technologies Web. En tant que Directeur Technique, il travaille en étroite collaboration avec le président afin de définir la stratégie de développement d\u0027eXo et de sa vision. Tugdual supervise l\u0027exécution avec les partenaires et les grands comptes et gère également les équipes de développement afin de mettre en oeuvre les nouvelles orientations stratégies.\r\n\r\nTugdual a rejoint eXo après être passé chez Sogeti, une filiale de Cap Gemini, où il a travaillé sur l\u0027évangélisation et le développement SOA et des projets Webs 2.0. Avant Sogeti, Tugdual a passé huit années chez Oracle, en tant que Directeur produit pour Oracle Fusion Middleware. A ce poste, il s\u0027est concentré sur la stratégie produit et a accélérer leurs adoptions par les clients. Aussi, Tugdual intervient fréquemment aux conférences internationales du secteur.\r\n\r\nTugdual est également JUG leader et co-fondateur du Nantes JUG ( http://nantesjug.org )",
+         "company":"eXo Platform",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1505/thumbnail.gif",
+         "sessionIds":[
+            1075,
+            1075,
+            1075,
+            1075
+         ],
+         "sessions":[
+            {
+               "sessionId":1075,
+               "scheduleId":0,
+               "title":"Tribulation d\u0027un développeur Java dans le Cloud",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1075,
+               "scheduleId":0,
+               "title":"Tribulation d\u0027un développeur Java dans le Cloud",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1075,
+               "scheduleId":0,
+               "title":"Tribulation d\u0027un développeur Java dans le Cloud",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1075,
+               "scheduleId":0,
+               "title":"Tribulation d\u0027un développeur Java dans le Cloud",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1539,
+         "name":"Sacha Labourey",
+         "bio":"Sacha was born in Neuchâtel, Switzerland and graduated in 1999 from EPFL. It was during Sacha\u0027s studies in 1996 that he started his first consulting business - Cogito Informatique. In 2001, he joined Marc Fleury\u0027s JBoss project as a core contributor and implemented JBoss\u0027 original clustering features. In 2003, Sacha founded the European headquarters for JBoss and, as GM for Europe, led the strategy and partnerships that helped fuel the company\u0027s growth in that region. While in this position, he led the recruitment of some of JBoss\u0027 key talent and acquisition of key technology. In 2005, he was appointed CTO of JBoss, Inc. and as such, oversaw all of the JBoss engineering activities. In June 2006, JBoss, Inc. was acquired by Red Hat (NYSE:RHT). After the acquisition, Sacha remained JBoss CTO and played a crucial role in integrating and productizing JBoss software with Red Hat offerings. In 2007, Sacha became co-General Manager of Red Hat\u0027s middleware division. He ultimately left Red Hat in April 2009. Following a period of research, Sacha became convinced that public cloud infrastructure would lead a fundamental IT paradigm shift and that middleware would play a key role in that shift. As a result CloudBees, Inc. was formed in April 2010.",
+         "company":"CloudBees",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1539/thumbnail.gif",
+         "sessionIds":[
+            1108,
+            1108
+         ],
+         "sessions":[
+            {
+               "sessionId":1108,
+               "scheduleId":0,
+               "title":"Cloud et PaaS: les développeurs reprennent le pouvoir",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1108,
+               "scheduleId":0,
+               "title":"Cloud et PaaS: les développeurs reprennent le pouvoir",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1636,
+         "name":"Thomas Bassetto",
+         "bio":"Divers membres de la communauté ParisJS.",
+         "company":"ParisJS",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1636/thumbnail.gif",
+         "sessionIds":[
+            1251,
+            1251
+         ],
+         "sessions":[
+            {
+               "sessionId":1251,
+               "scheduleId":0,
+               "title":"DevoxxJS",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1251,
+               "scheduleId":0,
+               "title":"DevoxxJS",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      },
+      {
+         "speakerId":1682,
+         "name":"Philippe Antoine",
+         "bio":"Consultant Softeam, organisateur d\u0027événements techniques (barcamps, coding dojo)",
+         "company":"Softeam",
+         "imageUri":"http://cfp2.devoxx.com/static/images/1682/thumbnail.gif",
+         "sessionIds":[
+            1336,
+            1336,
+            1336
+         ],
+         "sessions":[
+            {
+               "sessionId":1336,
+               "scheduleId":0,
+               "title":"Live coding: Tetris simplifié avec TDD et Javascript",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1336,
+               "scheduleId":0,
+               "title":"Live coding: Tetris simplifié avec TDD et Javascript",
+               "roomId":0,
+               "sponsored":false
+            },
+            {
+               "sessionId":1336,
+               "scheduleId":0,
+               "title":"Live coding: Tetris simplifié avec TDD et Javascript",
+               "roomId":0,
+               "sponsored":false
+            }
+         ]
+      }
+   ],
+   "version":1
+}

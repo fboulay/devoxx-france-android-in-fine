@@ -1,0 +1,55 @@
+{
+   "rooms":[
+      {
+         "roomId":20,
+         "roomName":"Duke Elligton",
+         "capacity":30
+      },
+      {
+         "roomId":19,
+         "roomName":"Miles Davis C",
+         "capacity":40
+      },
+      {
+         "roomId":13,
+         "roomName":"La Seine B",
+         "capacity":280
+      },
+      {
+         "roomId":15,
+         "roomName":"E. Fitzgerald \u0026 L. Armstrong",
+         "capacity":290
+      },
+      {
+         "roomId":14,
+         "roomName":"La Seine C",
+         "capacity":280
+      },
+      {
+         "roomId":21,
+         "roomName":"Hall d\u0027exposition",
+         "capacity":1400
+      },
+      {
+         "roomId":12,
+         "roomName":"La Seine A",
+         "capacity":260
+      },
+      {
+         "roomId":16,
+         "roomName":"Miles Davis",
+         "capacity":220
+      },
+      {
+         "roomId":18,
+         "roomName":"Miles Davis B",
+         "capacity":25
+      },
+      {
+         "roomId":17,
+         "roomName":"Miles Davis A",
+         "capacity":25
+      }
+   ],
+   "version":0
+}
