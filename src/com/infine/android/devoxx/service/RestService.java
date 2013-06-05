@@ -146,6 +146,7 @@ public class RestService extends IntentService {
 				// verion = -1
 				loadStaticFiles();
 			}
+			loadStaticRoom();
 
 			// Always hit remote spreadsheet for any updates
 			loadRemoteData();
@@ -163,6 +164,12 @@ public class RestService extends IntentService {
 		// Announce success to any surface listener
 		if (receiver != null)
 			receiver.send(STATUS_FINISHED, Bundle.EMPTY);
+	}
+
+	private void loadStaticRoom() throws HandlerException {
+		// Room loading
+		mLocalExecutor.execute(R.raw.room, new JsonRoomHandler());
+		
 	}
 
 	/**

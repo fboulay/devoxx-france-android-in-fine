@@ -39,13 +39,13 @@ public class VersionReader {
 			VersionData versionData = mapper.readValue(new URL(url), VersionData.class);
 			version = versionData.getVersion();
 		} catch (JsonParseException e) {
-			Log.e(TAG, ERR_MSG);
+			Log.e(TAG, ERR_MSG, e);
 		} catch (JsonMappingException e) {
-			Log.e(TAG, ERR_MSG);
+			Log.e(TAG, ERR_MSG, e);
 		} catch (MalformedURLException e) {
-			Log.e(TAG, ERR_MSG);
+			Log.e(TAG, ERR_MSG, e);
 		} catch (IOException e) {
-			Log.e(TAG, ERR_MSG);
+			Log.e(TAG, ERR_MSG, e);
 		}
 		return version;
 	}

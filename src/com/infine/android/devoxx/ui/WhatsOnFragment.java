@@ -89,7 +89,7 @@ public class WhatsOnFragment extends Fragment {
             view.setOnClickListener(new View.OnClickListener() {
                 public void onClick(View view) {
                     AnalyticsUtils.getInstance(getActivity()).trackEvent(
-                            "Home Screen Dashboard", "Click", "Devoxx France 2012 Site", 0);
+                            "Home Screen Dashboard", "Click", "Devoxx France 2013 Site", 0);
 //                    Intent intent = new Intent(getActivity(), TagStreamActivity.class);
                     Intent intent = new Intent(getActivity(), DevoxxSiteActivity.class);
                     startActivity(intent);

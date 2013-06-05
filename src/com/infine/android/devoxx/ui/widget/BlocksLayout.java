@@ -60,13 +60,13 @@ public class BlocksLayout extends ViewGroup {
         if (mRulerView == null) {
             throw new IllegalStateException("Must include a R.id.blocks_ruler view.");
         }
-        mRulerView.setDrawingCacheEnabled(true);
+//        mRulerView.setDrawingCacheEnabled(true);
 
         mNowView = findViewById(R.id.blocks_now);
         if (mNowView == null) {
             throw new IllegalStateException("Must include a R.id.blocks_now view.");
         }
-        mNowView.setDrawingCacheEnabled(true);
+//        mNowView.setDrawingCacheEnabled(true);
     }
 
     /**
@@ -81,7 +81,7 @@ public class BlocksLayout extends ViewGroup {
     }
 
     public void addBlock(BlockView blockView) {
-        blockView.setDrawingCacheEnabled(true);
+//        blockView.setDrawingCacheEnabled(true);
 //        addView(blockView, 1);
         addView(blockView);
     }

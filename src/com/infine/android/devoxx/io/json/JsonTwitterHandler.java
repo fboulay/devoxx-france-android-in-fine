@@ -48,7 +48,7 @@ public class JsonTwitterHandler extends JsonHandler {
 	public static final String TWITTER_MAX_ID ="devoxx_twitter_max_id";
 	public static final String NO_MAX_ID ="0";
 	
-	// ex : Sat, 24 Mar 2012 21:16:30 +0000 
+	// ex : Sat, 24 Mar 2013 21:16:30 +0000 
 	// EEE, dd MMM yyyy HH:mm:ss Z
 	private static final SimpleDateFormat formatter = new SimpleDateFormat("EEE, dd MMM yyyy HH:mm:ss Z", Locale.ENGLISH);
 	

@@ -15,7 +15,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name">Devoxx France</string>
 
-    <string name="description_logo">Devoxx France 2012</string>
+    <string name="description_logo">Devoxx France 2013</string>
     <string name="description_home">Accueil</string>
     <string name="description_search">Rechercher</string>
     <string name="description_map">Carte</string>
@@ -37,7 +37,7 @@
     <string name="title_map">Plan</string>
     <string name="title_tagstream">Realtime stream</string>
     <string name="title_twitter">Tag #DevoxxFr</string>
-    <string name="title_site_conference">Devoxx France 2012</string>
+    <string name="title_site_conference">Devoxx France 2013</string>
     <string name="title_speakers">Speakers</string>
     <string name="title_speaker_detail">Détails du speaker</string>
 
@@ -119,12 +119,12 @@
     <string name="dialog_moderator_market">Visit Market</string>
 
     <plurals name="whats_on_countdown_title">
-        <item quantity="zero"><xliff:g id="remaining_time">%2$s</xliff:g>\navant Devoxx France 2012</item>
-        <item quantity="one"><xliff:g id="number_of_days">%1$s</xliff:g> jour, <xliff:g id="remaining_time">%2$s</xliff:g>\navant Devoxx France 2012</item>
-        <item quantity="other"><xliff:g id="number_of_days">%1$s</xliff:g> jours, <xliff:g id="remaining_time">%2$s</xliff:g>\navant Devoxx France 2012</item>
+        <item quantity="zero"><xliff:g id="remaining_time">%2$s</xliff:g>\navant Devoxx France 2013</item>
+        <item quantity="one"><xliff:g id="number_of_days">%1$s</xliff:g> jour, <xliff:g id="remaining_time">%2$s</xliff:g>\navant Devoxx France 2013</item>
+        <item quantity="other"><xliff:g id="number_of_days">%1$s</xliff:g> jours, <xliff:g id="remaining_time">%2$s</xliff:g>\navant Devoxx France 2013</item>
     </plurals>
 
-    <string name="whats_on_stream_title">Devoxx\nFrance\n2012</string>
+    <string name="whats_on_stream_title">Devoxx\nFrance\n2013</string>
     <string name="whats_on_now_playing_title">En cours </string>
     <string name="whats_on_thank_you_title">A l\'année prochaine !</string>
 
@@ -150,6 +150,6 @@
     <string name="accept">J\'aime In Fine !</string>
     <string name="decline">Non, Merci.</string>
     
-    <string name="dialog_about">Cette application est développée par :\n- Florian Boulay\n- Christian Nguyen Van Than\n\nNous travaillons chez In Fine Consulting, partenaire de Devoxx France 2012. Venez nous voir !</string>
+    <string name="dialog_about">Cette application est développée par :\n- Florian Boulay\n- Christian Nguyen Van Than\n\nNous travaillons chez In Fine Consulting, partenaire de Devoxx France 2013. Venez nous voir !</string>
 
 </resources>

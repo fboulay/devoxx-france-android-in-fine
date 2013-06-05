@@ -73,9 +73,9 @@ public class ScheduleFragment extends Fragment implements NotifyingAsyncQueryHan
 	private static final int TIME_FLAGS = DateUtils.FORMAT_SHOW_DATE | DateUtils.FORMAT_SHOW_WEEKDAY
 			| DateUtils.FORMAT_ABBREV_WEEKDAY;
 
-	public static final long[] eventDays = { ParserUtils.parseTime("2012-04-18T00:00:00.000+01:00"),
-			ParserUtils.parseTime("2012-04-19T00:00:00.000+01:00"),
-			ParserUtils.parseTime("2012-04-20T00:00:00.000+01:00"), };
+	public static final long[] eventDays = { ParserUtils.parseTime("2013-03-27T00:00:00.000+01:00"),
+			ParserUtils.parseTime("2013-03-28T00:00:00.000+01:00"),
+			ParserUtils.parseTime("2013-03-29T00:00:00.000+01:00"), };
 
 	private static final int DISABLED_BLOCK_ALPHA = 100;
 
@@ -119,7 +119,8 @@ public class ScheduleFragment extends Fragment implements NotifyingAsyncQueryHan
 		ViewGroup root = (ViewGroup) inflater.inflate(R.layout.fragment_schedule, null);
 
 		mWorkspace = (Workspace) root.findViewById(R.id.workspace);
-
+		
+		
 		mTitle = (TextView) root.findViewById(R.id.block_title);
 
 		mLeftIndicator = root.findViewById(R.id.indicator_left);
@@ -168,6 +169,17 @@ public class ScheduleFragment extends Fragment implements NotifyingAsyncQueryHan
 			}
 		}, true);
 
+//		mWorkspace.setDrawingCacheEnabled(false);
+//		mLeftIndicator.setDrawingCacheEnabled(false);
+//		mRightIndicator.setDrawingCacheEnabled(false);
+////		mWorkspace.setDrawingCacheEnabled(false);
+////		mWorkspace.setDrawingCacheEnabled(false);
+////		mWorkspace.setDrawingCacheEnabled(false);
+//		for(Day day : mDays){
+//			day.rootView.setDrawingCacheEnabled(false);
+//			day.scrollView.setDrawingCacheEnabled(false);
+//		}
+		
 		return root;
 	}
 
@@ -203,8 +215,8 @@ public class ScheduleFragment extends Fragment implements NotifyingAsyncQueryHan
 		day.blocksView = (BlocksLayout) day.rootView.findViewById(R.id.blocks);
 		day.nowView = day.rootView.findViewById(R.id.blocks_now);
 
-		day.blocksView.setDrawingCacheEnabled(true);
-		day.blocksView.setAlwaysDrawnWithCacheEnabled(true);
+//		day.blocksView.setDrawingCacheEnabled(true);
+//		day.blocksView.setAlwaysDrawnWithCacheEnabled(true);
 
 		TimeZone.setDefault(UIUtils.CONFERENCE_TIME_ZONE);
 		day.label = DateUtils.formatDateTime(getActivity(), startMillis, TIME_FLAGS);

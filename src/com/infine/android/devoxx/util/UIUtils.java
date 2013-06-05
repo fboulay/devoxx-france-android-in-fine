@@ -61,11 +61,11 @@ public class UIUtils {
     public static final TimeZone CONFERENCE_TIME_ZONE = TimeZone.getTimeZone("Europe/Paris");
 
     public static final long CONFERENCE_START_MILLIS = ParserUtils.parseTime(
-            "2012-04-18T09:00:00.000+01:00");
+            "2013-03-27T09:00:00.000+01:00");
     public static final long CONFERENCE_END_MILLIS = ParserUtils.parseTime(
-            "2011-04-20T19:00:00.000+01:00");
+            "2013-03-30T19:00:00.000+01:00");
 
-    public static final String CONFERENCE_HTTP_URL = "http://www.devoxx.com/display/FR12/Accueil";
+    public static final String CONFERENCE_HTTP_URL = "http://www.devoxx.com/display/FR13/Accueil";
     
     public static final Uri CONFERENCE_URL = Uri.parse(CONFERENCE_HTTP_URL);
 

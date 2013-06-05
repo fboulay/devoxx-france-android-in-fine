@@ -30,6 +30,7 @@ import com.infine.android.devoxx.data.RoomData;
 import com.infine.android.devoxx.data.RoomsData;
 import com.infine.android.devoxx.provider.ScheduleContract;
 import com.infine.android.devoxx.provider.ScheduleContract.Rooms;
+import com.infine.android.devoxx.provider.ScheduleContract.Sessions;
 import com.infine.android.devoxx.util.Lists;
 
 /**
@@ -51,6 +52,8 @@ public class JsonRoomHandler extends JsonHandler {
             InputStream inputStream, ContentResolver resolver)
             throws IOException {
         final ArrayList<ContentProviderOperation> batch = Lists.newArrayList();
+        
+        batch.add(ContentProviderOperation.newDelete(Rooms.CONTENT_URI).build());
         
         // Read rooms from JSON InputStream
         RoomsData rooms = readData(inputStream);

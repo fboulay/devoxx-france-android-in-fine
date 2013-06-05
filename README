@@ -1,7 +1,13 @@
-Application Android pour Devoxx 2012 version In Fine Consulting.
+Application Android pour Devoxx 2013 version In Fine Consulting.
 
 Responsable : Antoine RAMPONI
 
 Developper Team:
 	- Christian NGUYEN VAN THAN
 	- Florian BOULAY
+	
+Libraries needed :
+    - Google Analytics
+    - Android Support V4
+    - jackson 1.9.4
+    - prettytimme 1.0.8

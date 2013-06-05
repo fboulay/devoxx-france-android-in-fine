@@ -23,9 +23,9 @@ public enum BlockColumnType {
     BOF("Bof",true, 0, 2),
     UNIVERSITY("University",true, 0, 3),
     KEYNOTE("Keynote",false, 1, 2),
-    BREAK("Break",false, 0, 2),
+    BREAK("Break",false, 2, 1),
     PARTY("Party",false, 2, 1),
-    COFFE_BREAK("Coffee Break",false, 0, 3),
+    COFFE_BREAK("Coffee Break",false, 2, 1),
     CODE_STORY("Code Story",true, 2, 1),
     UNDEFINED("undefined",false, 999, 1);
     
