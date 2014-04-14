@@ -126,7 +126,7 @@ public class BlockView extends Button {
                 accentColor = getResources().getColor(R.color.block_column_coffeebreak);
                 break;
             case CODE_STORY:
-                accentColor = getResources().getColor(R.color.block_column_talk);
+                accentColor = getResources().getColor(R.color.block_column_lunch);
                 break;
             default:
                 accentColor = getResources().getColor(R.color.block_column_undefined);
