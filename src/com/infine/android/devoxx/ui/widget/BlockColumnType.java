@@ -18,15 +18,19 @@ public enum BlockColumnType {
     REGISTRATION("Registration",false, 1, 2), // Nom , Affichage favoris, Numero colonne, Nombre de colonnes
     BREAKFAST("Breakfast",false, 0, 1),
     LUNCH("Lunch",false, 0, 1),
-    TALK("Talk",true, 0, 2),
-    QUICKY("Quicky",false, 1, 1),
-    BOF("Bof",true, 0, 2),
-    UNIVERSITY("University",true, 0, 3),
-    KEYNOTE("Keynote",false, 1, 2),
-    BREAK("Break",false, 2, 1),
+    TALK("Conference",true, 0, 2),
+    QUICKY("Quickie",false, 1, 1),
+    BOF("BOF (Bird of a Feather)",true, 0, 2),
+    UNIVERSITY("University",true, 0, 2),
+    HANDS_ON("Hand's on Labs",true, 2, 1),
+    KEYNOTE("Keynote",false, 0, 3),
+    BREAK("Break",false, 0, 1),
     PARTY("Party",false, 2, 1),
-    COFFE_BREAK("Coffee Break",false, 2, 1),
+    COFFEE_BREAK("Coffee Break",false, 0, 1),
     CODE_STORY("Code Story",true, 2, 1),
+    OTHER_FORMAT("Other format",true, 2, 1),
+    HACKATON("Hackaton",true, 2, 1),
+    TOOLS_IN_ACTION("Tools-in-Action",true, 0, 2),
     UNDEFINED("undefined",false, 999, 1);
     
     private String type;

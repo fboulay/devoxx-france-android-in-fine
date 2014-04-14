@@ -122,7 +122,7 @@ public class BlockView extends Button {
             case PARTY:
                 accentColor = getResources().getColor(R.color.block_column_party);
                 break;
-            case COFFE_BREAK:
+            case COFFEE_BREAK:
                 accentColor = getResources().getColor(R.color.block_column_coffeebreak);
                 break;
             case CODE_STORY:
