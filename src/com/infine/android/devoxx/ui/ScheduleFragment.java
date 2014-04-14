@@ -300,7 +300,18 @@ public class ScheduleFragment extends Fragment implements NotifyingAsyncQueryHan
 				// TODO : temporary to manage code story
 				columnType = patchColumnType(columnType, start, end);
 
-				final BlockView blockView = new BlockView(getActivity(), blockId, title, start, end, nbStar,
+                String blockTitle = type;
+                if (title.contains("Code-Story")) {
+                    blockTitle = "Code story";
+                }
+                if (title.contains("Devoxx4Kids")) {
+                    blockTitle = "Devoxx4Kids";
+                }
+                if (title.contains("Devops Mercenaries")) {
+                    blockTitle = "Devops Mercenaries";
+                }
+
+				final BlockView blockView = new BlockView(getActivity(), blockId, blockTitle, start, end, nbStar,
 						titleStarred != null ? titleStarred : "", columnType);
 
 				final int sessionsCount = cursor.getInt(BlocksQuery.SESSIONS_COUNT);
