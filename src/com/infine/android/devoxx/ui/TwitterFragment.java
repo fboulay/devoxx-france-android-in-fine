@@ -25,7 +25,6 @@ import android.webkit.WebView;
 import android.webkit.WebViewClient;
 
 import com.infine.android.devoxx.R;
-import com.infine.android.devoxx.util.AnalyticsUtils;
 import com.infine.android.devoxx.util.UIUtils;
 
 /**
@@ -68,7 +67,7 @@ public class TwitterFragment extends Fragment {
         super.onCreate(savedInstanceState);
         setHasOptionsMenu(false);
         mWebViewClient = new InnerViewClient();
-        AnalyticsUtils.getInstance(getActivity()).trackPageView("/DevoxxFr");
+//        AnalyticsUtils.getInstance(getActivity()).trackPageView("/DevoxxFr");
     }
 
     @Override

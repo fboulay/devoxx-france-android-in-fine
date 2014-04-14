@@ -20,7 +20,6 @@ import android.os.AsyncTask;
 import android.os.Build;
 import android.preference.PreferenceManager;
 import android.util.Log;
-import com.google.android.apps.analytics.GoogleAnalyticsTracker;
 
 /**
  * Helper singleton class for the Google Analytics tracking library.
@@ -28,7 +27,7 @@ import com.google.android.apps.analytics.GoogleAnalyticsTracker;
 public class AnalyticsUtils {
 	private static final String TAG = "AnalyticsUtils";
 
-	GoogleAnalyticsTracker mTracker;
+//	GoogleAnalytics mTracker;
 	private Context mApplicationContext;
 
 	/**
@@ -58,7 +57,7 @@ public class AnalyticsUtils {
 			if (context == null) {
 				return sEmptyAnalyticsUtils;
 			}
-			sInstance = new AnalyticsUtils(context);
+//			sInstance = GoogleAnalytics.getInstance(this);
 		}
 
 		return sInstance;
@@ -71,10 +70,10 @@ public class AnalyticsUtils {
 		}
 
 		mApplicationContext = context.getApplicationContext();
-		mTracker = GoogleAnalyticsTracker.getInstance();
+//		mTracker = GoogleAnalyticsTracker.getInstance();
 
 		// Unfortunately this needs to be synchronous.
-		mTracker.startNewSession(UACODE, mApplicationContext);
+//		mTracker.startNewSession(UACODE, mApplicationContext);
 
 		if (Log.isLoggable(TAG, Log.DEBUG)) {
 			Log.d(TAG, "Initializing Analytics");
@@ -90,8 +89,8 @@ public class AnalyticsUtils {
 			}
 			String apiLevel = Integer.toString(Build.VERSION.SDK_INT);
 			String model = Build.MODEL;
-			mTracker.setCustomVar(1, "apiLevel", apiLevel, VISITOR_SCOPE);
-			mTracker.setCustomVar(2, "model", model, VISITOR_SCOPE);
+//			mTracker.setCustomVar(1, "apiLevel", apiLevel, VISITOR_SCOPE);
+//			mTracker.setCustomVar(2, "model", model, VISITOR_SCOPE);
 
 			// Close out so we never run this block again, unless app is removed
 			// & =
@@ -108,7 +107,7 @@ public class AnalyticsUtils {
 			@Override
 			protected Void doInBackground(Void... voids) {
 				try {
-					mTracker.trackEvent(category, action, label, value);
+//					mTracker.trackEvent(category, action, label, value);
 					Log.d(TAG, "Infine Analytics trackEvent: " + category + " / " + action + " / " + label + " / "
 							+ value);
 				} catch (Exception e) {
@@ -130,7 +129,7 @@ public class AnalyticsUtils {
 			@Override
 			protected Void doInBackground(Void... voids) {
 				try {
-					mTracker.trackPageView(path);
+//					mTracker.trackPageView(path);
 					if (Log.isLoggable(TAG, Log.DEBUG)) {
 						Log.d(TAG, "Infine Analytics trackPageView: " + path);
 					}

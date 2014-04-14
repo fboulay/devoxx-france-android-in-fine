@@ -29,7 +29,6 @@ import android.widget.Toast;
 import com.infine.android.devoxx.R;
 import com.infine.android.devoxx.service.RestService;
 import com.infine.android.devoxx.service.ServiceStatus;
-import com.infine.android.devoxx.util.AnalyticsUtils;
 import com.infine.android.devoxx.util.DetachableResultReceiver;
 import com.infine.android.devoxx.util.EulaHelper;
 
@@ -63,7 +62,7 @@ public class HomeActivity extends BaseActivity {
 			EulaHelper.showEula(false, this);
 		}
 
-		AnalyticsUtils.getInstance(this).trackPageView("/Home");
+//		AnalyticsUtils.getInstance(this).trackPageView("/Home");
 
 		setContentView(R.layout.activity_home);
 		getActivityHelper().setupActionBar(null, 0);

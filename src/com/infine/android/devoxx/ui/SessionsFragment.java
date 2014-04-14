@@ -14,8 +14,6 @@
 
 package com.infine.android.devoxx.ui;
 
-import static com.infine.android.devoxx.util.UIUtils.buildStyledSnippet;
-import static com.infine.android.devoxx.util.UIUtils.formatSessionSubtitle;
 import android.content.Context;
 import android.content.Intent;
 import android.database.ContentObserver;
@@ -38,9 +36,11 @@ import android.widget.TextView;
 import com.infine.android.devoxx.R;
 import com.infine.android.devoxx.provider.ScheduleContract;
 import com.infine.android.devoxx.util.ActivityHelper;
-import com.infine.android.devoxx.util.AnalyticsUtils;
 import com.infine.android.devoxx.util.NotifyingAsyncQueryHandler;
 import com.infine.android.devoxx.util.UIUtils;
+
+import static com.infine.android.devoxx.util.UIUtils.buildStyledSnippet;
+import static com.infine.android.devoxx.util.UIUtils.formatSessionSubtitle;
 
 /**
  * A {@link ListFragment} showing a list of sessions.
@@ -184,7 +184,7 @@ public class SessionsFragment extends ListFragment implements NotifyingAsyncQuer
 			activityHelper.setActionBarTitle(trackName);
 			activityHelper.setActionBarColor(cursor.getInt(TracksQuery.TRACK_COLOR));
 
-			AnalyticsUtils.getInstance(getActivity()).trackPageView("/Tracks/" + trackName);
+//			AnalyticsUtils.getInstance(getActivity()).trackPageView("/Tracks/" + trackName);
 		} finally {
 			if (cursor != null) {
 				cursor.close();

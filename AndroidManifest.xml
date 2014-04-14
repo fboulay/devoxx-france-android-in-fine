@@ -23,7 +23,7 @@
 
     <uses-sdk
         android:minSdkVersion="7"
-        android:targetSdkVersion="17" />
+        android:targetSdkVersion="19" />
 
     <permission
         android:name="com.infine.android.devoxx.permission.WRITE_SCHEDULE"
@@ -40,7 +40,7 @@
         android:icon="@drawable/logo_devoxx_france"
         android:logo="@drawable/devoxx_france_2012"
         android:theme="@style/Theme.IOSched"
-        android:hardwareAccelerated="false" 
+        android:hardwareAccelerated="false"
         android:allowBackup="true">
 
         <!-- Activities for both phones and tablets -->

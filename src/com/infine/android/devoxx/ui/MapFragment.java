@@ -20,15 +20,20 @@ import android.net.Uri;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.util.Log;
-import android.view.*;
+import android.view.LayoutInflater;
+import android.view.Menu;
+import android.view.MenuInflater;
+import android.view.MenuItem;
+import android.view.View;
+import android.view.ViewGroup;
 import android.webkit.WebChromeClient;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
 import android.widget.Toast;
+
 import com.infine.android.devoxx.R;
 import com.infine.android.devoxx.provider.ScheduleContract;
 import com.infine.android.devoxx.provider.ScheduleContract.Rooms;
-import com.infine.android.devoxx.util.AnalyticsUtils;
 import com.infine.android.devoxx.util.ParserUtils;
 
 /**
@@ -54,7 +59,7 @@ public class MapFragment extends Fragment {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setHasOptionsMenu(true);
-        AnalyticsUtils.getInstance(getActivity()).trackPageView("/Map");
+//        AnalyticsUtils.getInstance(getActivity()).trackPageView("/Map");
     }
 
     @Override

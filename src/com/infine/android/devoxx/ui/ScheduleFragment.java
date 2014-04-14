@@ -14,10 +14,6 @@
 
 package com.infine.android.devoxx.ui;
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.TimeZone;
-
 import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
@@ -50,11 +46,14 @@ import com.infine.android.devoxx.ui.widget.BlockView;
 import com.infine.android.devoxx.ui.widget.BlocksLayout;
 import com.infine.android.devoxx.ui.widget.ObservableScrollView;
 import com.infine.android.devoxx.ui.widget.Workspace;
-import com.infine.android.devoxx.util.AnalyticsUtils;
 import com.infine.android.devoxx.util.MotionEventUtils;
 import com.infine.android.devoxx.util.NotifyingAsyncQueryHandler;
 import com.infine.android.devoxx.util.ParserUtils;
 import com.infine.android.devoxx.util.UIUtils;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.TimeZone;
 
 /**
  * Shows a horizontally-pageable calendar of conference days. Horizontaly paging
@@ -73,9 +72,9 @@ public class ScheduleFragment extends Fragment implements NotifyingAsyncQueryHan
 	private static final int TIME_FLAGS = DateUtils.FORMAT_SHOW_DATE | DateUtils.FORMAT_SHOW_WEEKDAY
 			| DateUtils.FORMAT_ABBREV_WEEKDAY;
 
-	public static final long[] eventDays = { ParserUtils.parseTime("2013-03-27T00:00:00.000+01:00"),
-			ParserUtils.parseTime("2013-03-28T00:00:00.000+01:00"),
-			ParserUtils.parseTime("2013-03-29T00:00:00.000+01:00"), };
+	public static final long[] eventDays = { ParserUtils.parseTime("2014-04-16T00:00:00.000+01:00"),
+			ParserUtils.parseTime("2014-04-17T00:00:00.000+01:00"),
+			ParserUtils.parseTime("2014-04-18T00:00:00.000+01:00"), };
 
 	private static final int DISABLED_BLOCK_ALPHA = 100;
 
@@ -111,7 +110,7 @@ public class ScheduleFragment extends Fragment implements NotifyingAsyncQueryHan
 		super.onCreate(savedInstanceState);
 		mHandler = new NotifyingAsyncQueryHandler(getActivity().getContentResolver(), this);
 		setHasOptionsMenu(true);
-		AnalyticsUtils.getInstance(getActivity()).trackPageView("/Schedule");
+//		AnalyticsUtils.getInstance(getActivity()).trackPageView("/Schedule");
 	}
 
 	@Override
@@ -169,6 +168,7 @@ public class ScheduleFragment extends Fragment implements NotifyingAsyncQueryHan
 			}
 		}, true);
 
+        mWorkspace.setLayerType(View.LAYER_TYPE_NONE, null);
 //		mWorkspace.setDrawingCacheEnabled(false);
 //		mLeftIndicator.setDrawingCacheEnabled(false);
 //		mRightIndicator.setDrawingCacheEnabled(false);
@@ -339,7 +339,7 @@ public class ScheduleFragment extends Fragment implements NotifyingAsyncQueryHan
 	public void onClick(View view) {
 		if (view instanceof BlockView) {
 			String title = ((BlockView) view).getText().toString();
-			AnalyticsUtils.getInstance(getActivity()).trackEvent("Schedule", "Session Click", title, 0);
+//			AnalyticsUtils.getInstance(getActivity()).trackEvent("Schedule", "Session Click", title, 0);
 			final String blockId = ((BlockView) view).getBlockId();
 			final Uri sessionsUri = ScheduleContract.Blocks.buildSessionsUri(blockId);
 
@@ -368,7 +368,7 @@ public class ScheduleFragment extends Fragment implements NotifyingAsyncQueryHan
 		if (nowDay != null && forceScroll) {
 			// Scroll to show "now" in center
 			mWorkspace.setCurrentScreen(nowDay.index);
-			final int offset = nowDay.scrollView.getHeight() / 2;
+			final int offset = nowDay.scrollView.getHeight() / 16;
 			nowDay.nowView.requestRectangleOnScreen(new Rect(0, offset, 0, offset), true);
 			nowDay.blocksView.requestLayout();
 			return true;

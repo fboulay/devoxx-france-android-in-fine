@@ -27,7 +27,6 @@ import android.widget.TabHost;
 import android.widget.TextView;
 
 import com.infine.android.devoxx.R;
-import com.infine.android.devoxx.util.AnalyticsUtils;
 
 /**
  * Shows a {@link WebView} with a map of the conference venue.
@@ -50,7 +49,7 @@ public class MapHotelFragment extends Fragment {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setHasOptionsMenu(true);
-        AnalyticsUtils.getInstance(getActivity()).trackPageView("/Map");
+//        AnalyticsUtils.getInstance(getActivity()).trackPageView("/Map");
     }
 
     @Override

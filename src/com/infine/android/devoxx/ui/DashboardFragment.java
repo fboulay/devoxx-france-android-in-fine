@@ -15,7 +15,6 @@
 package com.infine.android.devoxx.ui;
 
 import android.content.Intent;
-import android.net.Uri;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
@@ -26,13 +25,11 @@ import com.infine.android.devoxx.R;
 import com.infine.android.devoxx.provider.ScheduleContract;
 import com.infine.android.devoxx.ui.phone.MapActivity;
 import com.infine.android.devoxx.ui.phone.ScheduleActivity;
-import com.infine.android.devoxx.util.AnalyticsUtils;
 
 public class DashboardFragment extends Fragment {
 
     public void fireTrackerEvent(String label) {
-        AnalyticsUtils.getInstance(getActivity()).trackEvent(
-                "Home Screen Dashboard", "Click", label, 0);
+//        AnalyticsUtils.getInstance(getActivity()).trackEvent("Home Screen Dashboard", "Click", label, 0);
     }
 
     @Override

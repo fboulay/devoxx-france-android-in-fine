@@ -13,26 +13,6 @@
  */
 package com.infine.android.devoxx.service;
 
-import java.io.IOException;
-import java.io.InputStream;
-import java.util.zip.GZIPInputStream;
-
-import org.apache.http.Header;
-import org.apache.http.HeaderElement;
-import org.apache.http.HttpEntity;
-import org.apache.http.HttpRequest;
-import org.apache.http.HttpRequestInterceptor;
-import org.apache.http.HttpResponse;
-import org.apache.http.HttpResponseInterceptor;
-import org.apache.http.client.HttpClient;
-import org.apache.http.entity.HttpEntityWrapper;
-import org.apache.http.impl.client.DefaultHttpClient;
-import org.apache.http.params.BasicHttpParams;
-import org.apache.http.params.HttpConnectionParams;
-import org.apache.http.params.HttpParams;
-import org.apache.http.params.HttpProtocolParams;
-import org.apache.http.protocol.HttpContext;
-
 import android.app.IntentService;
 import android.content.ContentResolver;
 import android.content.Context;
@@ -56,6 +36,26 @@ import com.infine.android.devoxx.io.json.LocalJsonExecutor;
 import com.infine.android.devoxx.io.json.RemoteJsonExecutor;
 import com.infine.android.devoxx.io.json.VersionReader;
 import com.infine.android.devoxx.util.HttpHelper;
+
+import org.apache.http.Header;
+import org.apache.http.HeaderElement;
+import org.apache.http.HttpEntity;
+import org.apache.http.HttpRequest;
+import org.apache.http.HttpRequestInterceptor;
+import org.apache.http.HttpResponse;
+import org.apache.http.HttpResponseInterceptor;
+import org.apache.http.client.HttpClient;
+import org.apache.http.entity.HttpEntityWrapper;
+import org.apache.http.impl.client.DefaultHttpClient;
+import org.apache.http.params.BasicHttpParams;
+import org.apache.http.params.HttpConnectionParams;
+import org.apache.http.params.HttpParams;
+import org.apache.http.params.HttpProtocolParams;
+import org.apache.http.protocol.HttpContext;
+
+import java.io.IOException;
+import java.io.InputStream;
+import java.util.zip.GZIPInputStream;
 
 /**
  * Created by IntelliJ IDEA. User: Kris Date: 09/03/12 Time: 00:33 To change
@@ -140,16 +140,16 @@ public class RestService extends IntentService {
 			int sessionVersion = prefs.getInt(PREFS_SESSION_VERSION, -1);
 			int speakerVersion = prefs.getInt(PREFS_SPEAKER_VERSION, -1);
 
-			if (scheduleVersion + sessionVersion + speakerVersion < 0) {
+//			if (scheduleVersion + sessionVersion + speakerVersion < 0) {
 				// on charge les fichiers statiques que la premiere fois
 				// ou quand un jeu de données schedule ou session est pourri
 				// verion = -1
 				loadStaticFiles();
-			}
+//			}
 			loadStaticRoom();
 
 			// Always hit remote spreadsheet for any updates
-			loadRemoteData();
+//			loadRemoteData();
 
 		} catch (Exception e) {
 			Log.e(TAG, "Problem while syncing", e);
@@ -175,9 +175,6 @@ public class RestService extends IntentService {
 	/**
 	 * Charge les fichiers de donnees statiques
 	 * 
-	 * @param localVersion
-	 * @param latestVersion
-	 * @param prefs
 	 * @throws HandlerException
 	 */
 	private void loadStaticFiles() throws HandlerException {

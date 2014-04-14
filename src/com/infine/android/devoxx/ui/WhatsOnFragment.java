@@ -24,10 +24,10 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
+
 import com.infine.android.devoxx.R;
 import com.infine.android.devoxx.provider.ScheduleContract;
 import com.infine.android.devoxx.ui.tablet.NowPlayingMultiPaneActivity;
-import com.infine.android.devoxx.util.AnalyticsUtils;
 import com.infine.android.devoxx.util.UIUtils;
 
 /**
@@ -88,9 +88,7 @@ public class WhatsOnFragment extends Fragment {
                     R.layout.whats_on_stream, mRootView, false);
             view.setOnClickListener(new View.OnClickListener() {
                 public void onClick(View view) {
-                    AnalyticsUtils.getInstance(getActivity()).trackEvent(
-                            "Home Screen Dashboard", "Click", "Devoxx France 2013 Site", 0);
-//                    Intent intent = new Intent(getActivity(), TagStreamActivity.class);
+//                    AnalyticsUtils.getInstance(getActivity()).trackEvent("Home Screen Dashboard", "Click", "Devoxx France 2013 Site", 0);
                     Intent intent = new Intent(getActivity(), DevoxxSiteActivity.class);
                     startActivity(intent);
                 }

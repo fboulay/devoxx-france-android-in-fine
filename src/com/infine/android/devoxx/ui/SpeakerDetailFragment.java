@@ -37,7 +37,6 @@ import android.widget.TextView;
 import com.infine.android.devoxx.R;
 import com.infine.android.devoxx.provider.ScheduleContract;
 import com.infine.android.devoxx.provider.ScheduleContract.Sessions;
-import com.infine.android.devoxx.util.AnalyticsUtils;
 import com.infine.android.devoxx.util.NotifyingAsyncQueryHandler;
 import com.infine.android.devoxx.util.UIUtils;
 
@@ -205,7 +204,7 @@ public class SpeakerDetailFragment extends Fragment implements NotifyingAsyncQue
 	}
 
 	/**
-	 * Handle {@link SessionsQuery} {@link Cursor}.
+	 * Handle {@link com.infine.android.devoxx.ui.SessionDetailFragment.SessionsQuery} {@link Cursor}.
 	 */
 	private void onSpeakerQueryComplete(Cursor cursor) {
 		try {
@@ -239,7 +238,7 @@ public class SpeakerDetailFragment extends Fragment implements NotifyingAsyncQue
 				mRootView.findViewById(android.R.id.empty).setVisibility(View.VISIBLE);
 			}
 
-			AnalyticsUtils.getInstance(getActivity()).trackPageView("/Speaker/" + mTitleString);
+//			AnalyticsUtils.getInstance(getActivity()).trackPageView("/Speaker/" + mTitleString);
 
 		} finally {
 			cursor.close();
@@ -265,8 +264,7 @@ public class SpeakerDetailFragment extends Fragment implements NotifyingAsyncQue
 	 * "View Note", etc Label -> Session's Title Value -> 0.
 	 */
 	public void fireSpeakerEvent(int actionId) {
-		AnalyticsUtils.getInstance(getActivity()).trackEvent("Speaker Details", getActivity().getString(actionId),
-				mTitleString, 0);
+//		AnalyticsUtils.getInstance(getActivity()).trackEvent("Speaker Details", getActivity().getString(actionId), mTitleString, 0);
 	}
 
 	private interface SpeakerQuery {

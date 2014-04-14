@@ -18,3 +18,5 @@ nbproject/**
 *.dex
 *.apk
 android/local.properties
+/build/
+/.gradle/

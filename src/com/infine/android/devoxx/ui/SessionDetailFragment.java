@@ -44,7 +44,6 @@ import com.infine.android.devoxx.R;
 import com.infine.android.devoxx.provider.ScheduleContract;
 import com.infine.android.devoxx.provider.ScheduleContract.Speakers;
 import com.infine.android.devoxx.ui.phone.MapActivity;
-import com.infine.android.devoxx.util.AnalyticsUtils;
 import com.infine.android.devoxx.util.FractionalTouchDelegate;
 import com.infine.android.devoxx.util.NotifyingAsyncQueryHandler;
 import com.infine.android.devoxx.util.UIUtils;
@@ -260,12 +259,12 @@ public class SessionDetailFragment extends Fragment implements NotifyingAsyncQue
 				}
 			});
 
-			String exp = cursor.getString(SessionsQuery.EXPERIENCE);
-			int resource = getResources().getIdentifier("session_exp_" + exp, "id",
-					getActivity().getApplicationContext().getPackageName());
-			mExperience = (TextView) mRootView.findViewById(resource);
-			mExperience.setVisibility(View.VISIBLE);
-			mExperience.setText(exp);
+//			String exp = cursor.getString(SessionsQuery.EXPERIENCE);
+//			int resource = getResources().getIdentifier("session_exp_" + exp, "id",
+//					getActivity().getApplicationContext().getPackageName());
+//			mExperience = (TextView) mRootView.findViewById(resource);
+//			mExperience.setVisibility(View.VISIBLE);
+//			mExperience.setText(exp);
 
 			boolean isSponsored = cursor.getInt(SessionsQuery.SESSION_SPONSORED) == 1 ? true : false;
 			if (isSponsored) {
@@ -296,7 +295,7 @@ public class SessionDetailFragment extends Fragment implements NotifyingAsyncQue
 				mRootView.findViewById(android.R.id.empty).setVisibility(View.VISIBLE);
 			}
 
-			AnalyticsUtils.getInstance(getActivity()).trackPageView("/Sessions/" + mTitleString);
+//			AnalyticsUtils.getInstance(getActivity()).trackPageView("/Sessions/" + mTitleString);
 
 		} finally {
 			cursor.close();
@@ -362,8 +361,7 @@ public class SessionDetailFragment extends Fragment implements NotifyingAsyncQue
 		// Because change listener is set to null during initialization, these
 		// won't fire on
 		// pageview.
-		AnalyticsUtils.getInstance(getActivity()).trackEvent("Sandbox", isChecked ? "Starred" : "Unstarred",
-				mTitleString, 0);
+//		AnalyticsUtils.getInstance(getActivity()).trackEvent("Sandbox", isChecked ? "Starred" : "Unstarred", mTitleString, 0);
 	}
 
 	/*
@@ -371,8 +369,7 @@ public class SessionDetailFragment extends Fragment implements NotifyingAsyncQue
 	 * "View Note", etc Label -> Session's Title Value -> 0.
 	 */
 	public void fireNotesEvent(int actionId) {
-		AnalyticsUtils.getInstance(getActivity()).trackEvent("Session Details", getActivity().getString(actionId),
-				mTitleString, 0);
+//		AnalyticsUtils.getInstance(getActivity()).trackEvent("Session Details", getActivity().getString(actionId), mTitleString, 0);
 	}
 
 	/*
@@ -380,8 +377,7 @@ public class SessionDetailFragment extends Fragment implements NotifyingAsyncQue
 	 * -> Session's Title Value -> 0.
 	 */
 	public void fireLinkEvent(int actionId) {
-		AnalyticsUtils.getInstance(getActivity()).trackEvent("Link Details", getActivity().getString(actionId),
-				mTitleString, 0);
+//		AnalyticsUtils.getInstance(getActivity()).trackEvent("Link Details", getActivity().getString(actionId), mTitleString, 0);
 	}
 
 	private class SpeakerAdapter extends CursorAdapter {
