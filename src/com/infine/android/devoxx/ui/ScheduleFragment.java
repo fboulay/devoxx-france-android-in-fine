@@ -168,7 +168,6 @@ public class ScheduleFragment extends Fragment implements NotifyingAsyncQueryHan
 			}
 		}, true);
 
-        mWorkspace.setLayerType(View.LAYER_TYPE_NONE, null);
 //		mWorkspace.setDrawingCacheEnabled(false);
 //		mLeftIndicator.setDrawingCacheEnabled(false);
 //		mRightIndicator.setDrawingCacheEnabled(false);

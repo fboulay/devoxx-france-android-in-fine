@@ -13,8 +13,6 @@
  */
 package com.infine.android.devoxx.service;
 
-import org.apache.http.client.HttpClient;
-
 import android.app.IntentService;
 import android.content.ContentResolver;
 import android.content.Intent;
@@ -26,6 +24,8 @@ import com.infine.android.devoxx.io.json.JsonHandler.HandlerException;
 import com.infine.android.devoxx.io.json.JsonTwitterHandler;
 import com.infine.android.devoxx.io.json.RemoteJsonExecutor;
 
+import org.apache.http.client.HttpClient;
+
 public class TwitterService extends IntentService {
 
 	private static final String TAG = "TwitterService";
@@ -36,7 +36,7 @@ public class TwitterService extends IntentService {
 
 	private RemoteJsonExecutor mExecutor;
 
-	private static final String TWITTER_SEARCH_API_URL = "http://search.twitter.com/search.json";
+	private static final String TWITTER_SEARCH_API_URL = "https://api.twitter.com/1.1/search/tweets.json";
 	private static final String DEFAULT_QUERY = TWITTER_SEARCH_API_URL + "?q=devoxxfr";
 
 	public TwitterService() {
