@@ -144,7 +144,7 @@ public class RestService extends IntentService {
 				// on charge les fichiers statiques que la premiere fois
 				// ou quand un jeu de données schedule ou session est pourri
 				// verion = -1
-//				loadStaticFiles();
+				loadStaticFiles();
 			}
 			loadStaticRoom();
 
