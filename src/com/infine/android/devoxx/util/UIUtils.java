@@ -61,9 +61,9 @@ public class UIUtils {
     public static final TimeZone CONFERENCE_TIME_ZONE = TimeZone.getTimeZone("Europe/Paris");
 
     public static final long CONFERENCE_START_MILLIS = ParserUtils.parseTime(
-            "2013-03-27T09:00:00.000+01:00");
+            "2014-04-16T09:00:00.000+01:00");
     public static final long CONFERENCE_END_MILLIS = ParserUtils.parseTime(
-            "2013-03-30T19:00:00.000+01:00");
+            "2014-04-20T19:00:00.000+01:00");
 
     public static final String CONFERENCE_HTTP_URL = "http://www.devoxx.fr";
     
