@@ -140,16 +140,16 @@ public class RestService extends IntentService {
 			int sessionVersion = prefs.getInt(PREFS_SESSION_VERSION, -1);
 			int speakerVersion = prefs.getInt(PREFS_SPEAKER_VERSION, -1);
 
-//			if (scheduleVersion + sessionVersion + speakerVersion < 0) {
+			if (scheduleVersion + sessionVersion + speakerVersion < 0) {
 				// on charge les fichiers statiques que la premiere fois
 				// ou quand un jeu de données schedule ou session est pourri
 				// verion = -1
-				loadStaticFiles();
-//			}
+//				loadStaticFiles();
+			}
 			loadStaticRoom();
 
 			// Always hit remote spreadsheet for any updates
-//			loadRemoteData();
+			loadRemoteData();
 
 		} catch (Exception e) {
 			Log.e(TAG, "Problem while syncing", e);

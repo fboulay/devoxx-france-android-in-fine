@@ -300,7 +300,7 @@ public class ScheduleFragment extends Fragment implements NotifyingAsyncQueryHan
 				// TODO : temporary to manage code story
 				columnType = patchColumnType(columnType, start, end);
 
-                String blockTitle = type;
+                String blockTitle = title;
                 if (title.contains("Code-Story")) {
                     blockTitle = "Code story";
                 }

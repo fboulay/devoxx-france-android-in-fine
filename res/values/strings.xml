@@ -15,7 +15,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name">Devoxx France</string>
 
-    <string name="description_logo">Devoxx France 2013</string>
+    <string name="description_logo">Devoxx France 2014</string>
     <string name="description_home">Home</string>
     <string name="description_search">Search</string>
     <string name="description_map">Map</string>
@@ -37,7 +37,7 @@
     <string name="title_map">Map</string>
     <string name="title_tagstream">Realtime stream</string>
     <string name="title_twitter">Tag #DevoxxFr</string>
-    <string name="title_site_conference">Devoxx France 2013</string>
+    <string name="title_site_conference">Devoxx France 2014</string>
     <string name="title_speakers">Speakers</string>
     <string name="title_speaker_detail">Speaker information</string>
 
@@ -119,9 +119,9 @@
     <string name="dialog_moderator_market">Visit Market</string>
 
     <plurals name="whats_on_countdown_title">
-        <item quantity="zero"><xliff:g id="remaining_time">%2$s</xliff:g>\nuntil Devoxx France 2013</item>
-        <item quantity="one"><xliff:g id="number_of_days">%1$s</xliff:g> day, <xliff:g id="remaining_time">%2$s</xliff:g>\nuntil Devoxx France 2013</item>
-        <item quantity="other"><xliff:g id="number_of_days">%1$s</xliff:g> days, <xliff:g id="remaining_time">%2$s</xliff:g>\nuntil Devoxx France 2013</item>
+        <item quantity="zero"><xliff:g id="remaining_time">%2$s</xliff:g>\nuntil Devoxx France 2014</item>
+        <item quantity="one"><xliff:g id="number_of_days">%1$s</xliff:g> day, <xliff:g id="remaining_time">%2$s</xliff:g>\nuntil Devoxx France 2014</item>
+        <item quantity="other"><xliff:g id="number_of_days">%1$s</xliff:g> days, <xliff:g id="remaining_time">%2$s</xliff:g>\nuntil Devoxx France 2014</item>
     </plurals>
 
     <string name="whats_on_stream_title">Devoxx\nFrance\n2013</string>
@@ -150,6 +150,6 @@
     <string name="accept">I love In Fine</string>
     <string name="decline">Decline</string>
     
-    <string name="dialog_about">This app is developed by :\n- Florian Boulay\n- Christian Nguyen Van Than\n\nWe work for In Fine Consulting, partner of Devoxx France 2013. Come and visit us !</string>
+    <string name="dialog_about">This app is developed by :\n- Florian Boulay\n- Christian Nguyen Van Than\n\n.In Fine Consulting is partner of Devoxx France 2014. Come and visit us !</string>
 
 </resources>
