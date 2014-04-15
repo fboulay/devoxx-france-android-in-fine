@@ -34,7 +34,7 @@
                 <com.infine.android.devoxx.ui.TouchImageView android:id="@+id/tab_map_level0"
                     android:layout_width="fill_parent"
                     android:layout_height="500dp"
-                    app:imageDrawable="@drawable/rdc_2014"/>
+                    app:imageDrawable="@drawable/devoxx_0"/>
                 <com.infine.android.devoxx.ui.TouchImageView android:id="@+id/tab_map_level1"
                     android:layout_width="fill_parent"
                     android:layout_height="500dp"
