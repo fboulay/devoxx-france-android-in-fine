@@ -15,6 +15,7 @@
 package com.infine.android.devoxx.ui;
 
 import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
@@ -110,7 +111,13 @@ public class DashboardFragment extends Fragment {
                 // Launch map of conference venue
                 fireTrackerEvent("Twitter");
                 // Launch twitter activity
-                startActivity(new Intent(getActivity(), TwitterActivity.class));     
+
+                try {
+                    startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("twitter://user?screen_name=DevoxxFR")));
+                }catch (Exception e) {
+                    startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("https://twitter.com/DevoxxFR")));
+                }
+                //startActivity(new Intent(getActivity(), TwitterActivity.class));
             }
         });
 
